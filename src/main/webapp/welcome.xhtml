@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<!DOCTYPE html>
+
+<html lang="en"
+      xmlns:h="jakarta.faces.html"
+      xmlns:ui="jakarta.faces.facelets">
+<h:head>
+    <title>.</title>
+</h:head>
+
+<ui:composition template="/WEB-INF/templates/template.xhtml">
+    <ui:define name="title">#{i18nText.ornitrain}</ui:define>
+
+    <ui:define name="css">
+        <h:outputStylesheet name="css/layouts/welcome.css"/>
+    </ui:define>
+
+    <ui:define name="main">
+        <h1>#{i18nText.welcome}</h1>
+        HUHU
+        <h:form id="orniForm">
+            Warum wird das jetzt nicht angezeigt
+        </h:form>
+    </ui:define>
+</ui:composition>
+</html>
+  
