@@ -56,7 +56,6 @@
     </dependencies>
 
     <build>
-        <finalName>ornitrain</finalName>
         <plugins>
             <plugin>
                 <groupId>io.openliberty.tools</groupId>

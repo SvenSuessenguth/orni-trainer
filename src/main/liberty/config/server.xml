@@ -57,6 +57,6 @@
    +-->
   <cdi12 enableImplicitBeanArchives="true" />
 
-  <application type="war" id="ornitrain_war_exploded" name="ornitrain_war_exploded" location="${server.config.dir}apps/ornitrain.war" context-root="/"/>
+  <application type="war" id="orni_trainer_war_exploded" name="orni_trainer_war_exploded" location="${server.config.dir}apps/orni-trainers.war" context-root="/"/>
 </server>
 
