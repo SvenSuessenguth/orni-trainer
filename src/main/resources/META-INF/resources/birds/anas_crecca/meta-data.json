@@ -1,21 +1,22 @@
 {
-	"artname": "Anas crecca",
-	"ordnung": "Anseriformes",
-	"familie": "Anatidae"
-	"images": {
-		"image": {
-			"name": "Eurasian_teal.jpg",
-			"source": "https://de.wikipedia.org/wiki/Datei:Eurasian_teal.jpg"
-		},
-		"image": {
-			"name": "Krickente.jpg",
-			"source": "https://de.wikipedia.org/wiki/Datei:Krickente.jpg"
-		}
-	},
-	"sounds": {
-		"sound": {
-			"name":"",
-			"source":""
-		}
-	}
+  "category": "bronze",
+  "ordnung": "Anseriformes",
+  "familie": "Anatidae",
+  "art": "Anas crecca",
+  "images": [
+    {
+      "name": "Eurasian_teal.jpg",
+      "source": "https://de.wikipedia.org/wiki/Datei:Eurasian_teal.jpg"
+    },
+    {
+      "name": "Krickente.jpg",
+      "source": "https://de.wikipedia.org/wiki/Datei:Krickente.jpg"
+    }
+  ],
+  "sounds": {
+    "sound": {
+      "name": "",
+      "source": ""
+    }
+  }
 }

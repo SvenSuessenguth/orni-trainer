@@ -1,0 +1,22 @@
+{
+  "category": "bronze",
+  "ordnung": "Anseriformes",
+  "familie": "Anatidae",
+  "art": "Cygnus color",
+  "images": [
+    {
+      "name": "Mute.swan.cygnets.750pix.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Mute.swan.cygnets.750pix.jpg/330px-Mute.swan.cygnets.750pix.jpg"
+    },
+    {
+      "name": "Höckerschwäne_EO5P3808-2.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/H%C3%B6ckerschw%C3%A4ne_EO5P3808-2.jpg/250px-H%C3%B6ckerschw%C3%A4ne_EO5P3808-2.jpg"
+    }
+  ],
+  "sounds": {
+    "sound": {
+      "name": "",
+      "source": ""
+    }
+  }
+}

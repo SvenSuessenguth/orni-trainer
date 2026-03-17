@@ -1,0 +1,26 @@
+{
+  "category": "bronze",
+  "ordnung": "Anseriformes",
+  "familie": "Anatidae",
+  "art": "Anser anser",
+  "images": [
+    {
+      "name": "Greylag-Goose.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Greylag-Goose.jpg/330px-Greylag-Goose.jpg"
+    },
+    {
+      "name": "Anser_anser_1.JPG",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Anser_anser_1.JPG/250px-Anser_anser_1.JPG"
+    },
+    {
+      "name": "Anser_anser_(aka).jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Anser_anser_%28aka%29.jpg/250px-Anser_anser_%28aka%29.jpg"
+    }
+  ],
+  "sounds": {
+    "sound": {
+      "name": "",
+      "source": ""
+    }
+  }
+}
