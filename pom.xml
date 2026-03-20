@@ -9,10 +9,11 @@
 
     <properties>
         <jakarta.jakartaee-api.version>11.0.0</jakarta.jakartaee-api.version>
+        <lombok.version>1.18.44</lombok.version>
 
         <openliberty-runtime.version>26.0.0.2</openliberty-runtime.version>
-        <junit.version>6.0.3</junit.version>
-        <assertj-core.version>3.27.7</assertj-core.version>
+        <junit.version>6.1.0-M1</junit.version>
+        <assertj-core.version>4.0.0-M1</assertj-core.version>
         <mockito.version>5.23.0</mockito.version>
 
         <liberty-maven-plugin.version>3.12.0</liberty-maven-plugin.version>
@@ -28,6 +29,11 @@
             <artifactId>jakarta.jakartaee-api</artifactId>
             <version>${jakarta.jakartaee-api.version}</version>
             <scope>provided</scope>
+        </dependency>
+        <dependency>
+            <groupId>org.projectlombok</groupId>
+            <artifactId>lombok</artifactId>
+            <version>${lombok.version}</version>
         </dependency>
 
         <dependency>

@@ -3,6 +3,7 @@
 
 <html lang="en"
       xmlns:h="jakarta.faces.html"
+      xmlns:f="http://xmlns.jcp.org/jsf/core"
       xmlns:ui="jakarta.faces.facelets">
 <h:head>
     <title>.</title>
@@ -17,7 +18,11 @@
 
     <ui:define name="main">
         <h1>#{i18nText.welcome}</h1>
-        <h:graphicImage library="birds" name="anas_crecca/Krickente.jpg"/>
+        <h:outputLabel for="category" value="#{i18nText.category}"/>
+        <h:selectOneMenu id="category" value="#{quizUiState.category}">
+            <f:selectItems value="#{quizUiService.allCategories}" var="s" itemValue="#{s}"
+                           itemLabel="#{i18nText['orc.cc.orni.trainer.Category.' += s.name()]}"/>
+        </h:selectOneMenu>
     </ui:define>
 </ui:composition>
 </html>
