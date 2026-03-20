@@ -1,0 +1,38 @@
+{
+  "category": "bronze",
+  "ordnung": "Anseriformes",
+  "familie": "Anatidae",
+  "art": "Alopochen aegyptiaca",
+  "images": [
+    {
+      "name": "Alopochen-aegyptiacus.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Alopochen-aegyptiacus.jpg/500px-Alopochen-aegyptiacus.jpg"
+    },
+    {
+      "name": "Nilgans_(Liebig).jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Nilgans_%28Liebig%29.jpg/330px-Nilgans_%28Liebig%29.jpg"
+    },
+    {
+      "name": "Alopochen_aegyptiacus_qtl1.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Alopochen_aegyptiacus_qtl1.jpg/500px-Alopochen_aegyptiacus_qtl1.jpg"
+    },
+    {
+      "name": "Alopochen_aegyptiacus_family75.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Alopochen_aegyptiacus_family75.jpg/500px-Alopochen_aegyptiacus_family75.jpg"
+    },
+    {
+      "name": "Nilgans_im_Kraehennest.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Nilgans_im_Kraehennest.jpg/500px-Nilgans_im_Kraehennest.jpg"
+    },
+    {
+      "name": "500px-Egyptian-Goose.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Egyptian-Goose.jpg/500px-Egyptian-Goose.jpg"
+    }
+  ],
+  "sounds": {
+    "sound": {
+      "name": "",
+      "source": ""
+    }
+  }
+}

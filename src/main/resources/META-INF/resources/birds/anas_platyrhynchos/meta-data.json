@@ -1,0 +1,38 @@
+{
+  "category": "bronze",
+  "ordnung": "Anseriformes",
+  "familie": "Anatidae",
+  "art": "Anas platyrhynchos",
+  "images": [
+    {
+      "name": "Mallard_male_female.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Mallard_male_female.jpg/500px-Mallard_male_female.jpg"
+    },
+    {
+      "name": "Colvert_DSC01773_retuschiert.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Colvert_DSC01773_retuschiert.jpg/500px-Colvert_DSC01773_retuschiert.jpg"
+    },
+    {
+      "name": "Drake_mallard_flight_(cropped).jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Drake_mallard_flight_%28cropped%29.jpg/330px-Drake_mallard_flight_%28cropped%29.jpg"
+    },
+    {
+      "name": "Male_Anas_platyrhynchos_breeding_plumage_side_portrait_retusche.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Male_Anas_platyrhynchos_breeding_plumage_side_portrait_retusche.jpg/500px-Male_Anas_platyrhynchos_breeding_plumage_side_portrait_retusche.jpg"
+    },
+    {
+      "name": "Mallard02s1500.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Mallard02s1500.jpg/500px-Mallard02s1500.jpg"
+    },
+    {
+      "name": "Stockentenschwarm.JPG",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Stockentenschwarm.JPG/500px-Stockentenschwarm.JPG"
+    }
+  ],
+  "sounds": {
+    "sound": {
+      "name": "",
+      "source": ""
+    }
+  }
+}
