@@ -23,7 +23,7 @@
             <f:selectItems value="#{quizUiService.allCategories}" var="s" itemValue="#{s}"
                            itemLabel="#{i18nText['orc.cc.orni.trainer.Category.' += s.name()]}"/>
         </h:selectOneMenu>
-        <h:graphicImage library="birds" name="#{quizUiState.randomBirdRandomImage}"/>
+        <h:graphicImage library="birds" name="#{quizUiState.randomBirdRandomImage}" style="width: 500px; height: auto"/>
     </ui:define>
 </ui:composition>
 </html>

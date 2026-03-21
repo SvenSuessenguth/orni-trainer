@@ -12,9 +12,11 @@ import jakarta.faces.view.ViewScoped;
 import jakarta.json.Json;
 import jakarta.json.bind.JsonbBuilder;
 import lombok.Data;
+import lombok.extern.java.Log;
 
 @ViewScoped
 @Data
+@Log
 public class Resources implements Serializable {
   private final List<Bird> birds = new ArrayList<>();
 
@@ -44,7 +46,7 @@ public class Resources implements Serializable {
           birds.add(bird);
         }
       } catch (Exception e) {
-        System.out.println(e.getMessage());
+        log.severe(e.getMessage());
       }
     }
   }

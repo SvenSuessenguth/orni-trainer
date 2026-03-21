@@ -1,0 +1,78 @@
+{
+  "category": "bronze",
+  "ordnung": "Falconiformes",
+  "familie": "Falconidae",
+  "art": "Falco tinnunculus",
+  "images": [
+    {
+      "name": "Common_kestrel_falco_tinnunculus.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Common_kestrel_falco_tinnunculus.jpg/960px-Common_kestrel_falco_tinnunculus.jpg"
+    },
+    {
+      "name": "500px-Turmfalke_grosse_version.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Turmfalke_grosse_version.jpg/500px-Turmfalke_grosse_version.jpg"
+    },
+    {
+      "name": "Turmfalkenpaar.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Turmfalkenpaar.jpg/500px-Turmfalkenpaar.jpg"
+    },
+    {
+      "name": "Common-Kestrel-5.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Common-Kestrel-5.jpg/960px-Common-Kestrel-5.jpg"
+    },
+    {
+      "name": "Turmfalke_Falco_tinnunculus.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Turmfalke_Falco_tinnunculus.jpg/960px-Turmfalke_Falco_tinnunculus.jpg"
+    },
+    {
+      "name": "Common-Kestrel-3.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Common-Kestrel-3.jpg/330px-Common-Kestrel-3.jpg"
+    },
+    {
+      "name": "Falco_tinnunculus_with_rodent_am.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/9/98/Falco_tinnunculus_with_rodent_am.jpg"
+    },
+    {
+      "name": "Falco_tinnunculus_(Linnaeus,_1758).jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Falco_tinnunculus_%28Linnaeus%2C_1758%29.jpg/500px-Falco_tinnunculus_%28Linnaeus%2C_1758%29.jpg"
+    },
+    {
+      "name": "Falco_tinnunculus_male_female_am.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Falco_tinnunculus_male_female_am.jpg/500px-Falco_tinnunculus_male_female_am.jpg"
+    },
+    {
+      "name": "Turmfalken_IMG_2659.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Turmfalken_IMG_2659.jpg/500px-Turmfalken_IMG_2659.jpg"
+    },
+    {
+      "name": "Turmfalke_fressen.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Turmfalke_fressen.jpg/500px-Turmfalke_fressen.jpg"
+    },
+    {
+      "name": "500px-Raubvogel_mit_Beute.jpeg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Raubvogel_mit_Beute.jpeg/500px-Raubvogel_mit_Beute.jpeg"
+    },
+    {
+      "name": "Turmfalke_(Falco_tinnunculus)_2011-05-12.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Turmfalke_%28Falco_tinnunculus%29_2011-05-12.jpg/500px-Turmfalke_%28Falco_tinnunculus%29_2011-05-12.jpg"
+    },
+    {
+      "name": "Falco_tinnunculus_-Artis_Zoo,_Netherlands_-mating-8a.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Falco_tinnunculus_-Artis_Zoo%2C_Netherlands_-mating-8a.jpg/500px-Falco_tinnunculus_-Artis_Zoo%2C_Netherlands_-mating-8a.jpg"
+    },
+    {
+      "name": "Turmfalke_maennchen.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Turmfalke_maennchen.jpg/500px-Turmfalke_maennchen.jpg"
+    },
+    {
+      "name": "500px-Common_kestrel.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Common_kestrel.jpg/500px-Common_kestrel.jpg"
+    }
+  ],
+  "sounds": {
+    "sound": {
+      "name": "",
+      "source": ""
+    }
+  }
+}

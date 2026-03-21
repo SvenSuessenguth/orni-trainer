@@ -1,0 +1,34 @@
+{
+  "category": "bronze",
+  "ordnung": "Accipitriformes",
+  "familie": "Accipitridae",
+  "art": "Milvus milvus",
+  "images": [
+    {
+      "name": "Milvus_milvus_R(ThKraft).jpg",
+      "source": "https://de.wikipedia.org/wiki/Rotmilan#/media/Datei:Milvus_milvus_R(ThKraft).jpg"
+    },
+    {
+      "name": "Red_Kite_from_the_Crossley_ID_Guide_Britain_and_Ireland.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Red_Kite_from_the_Crossley_ID_Guide_Britain_and_Ireland.jpg/500px-Red_Kite_from_the_Crossley_ID_Guide_Britain_and_Ireland.jpg"
+    },
+    {
+      "name": "Fischgreifender_Milan.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Fischgreifender_Milan.jpg/500px-Fischgreifender_Milan.jpg"
+    },
+    {
+      "name": "Rotmilan_(christian_knoch).jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Rotmilan_%28christian_knoch%29.jpg/500px-Rotmilan_%28christian_knoch%29.jpg"
+    },
+    {
+      "name": "Milan_mit_Beute.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Milan_mit_Beute.jpg/500px-Milan_mit_Beute.jpg"
+    }
+  ],
+  "sounds": {
+    "sound": {
+      "name": "",
+      "source": ""
+    }
+  }
+}
