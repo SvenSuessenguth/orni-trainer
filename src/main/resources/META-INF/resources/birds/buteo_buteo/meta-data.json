@@ -1,0 +1,30 @@
+{
+  "category": "bronze",
+  "ordnung": "Accipitriformes",
+  "familie": "Accipitridae",
+  "art": "Buteo buteo",
+  "images": [
+    {
+      "name": "Buteo_Buteo.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Buteo_Buteo.jpg/960px-Buteo_Buteo.jpg"
+    },
+    {
+      "name": "Buteo_buteo_4_(Marek_Szczepanek).jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Buteo_buteo_4_%28Marek_Szczepanek%29.jpg/500px-Buteo_buteo_4_%28Marek_Szczepanek%29.jpg"
+    },
+    {
+      "name": "Common-Buzzard.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Common-Buzzard.jpg/500px-Common-Buzzard.jpg"
+    },
+    {
+      "name": "Buteo_buteo_2_(Marek_Szczepanek).jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Buteo_buteo_2_%28Marek_Szczepanek%29.jpg/500px-Buteo_buteo_2_%28Marek_Szczepanek%29.jpg"
+    }
+  ],
+  "sounds": {
+    "sound": {
+      "name": "",
+      "source": ""
+    }
+  }
+}
