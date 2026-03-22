@@ -1,0 +1,34 @@
+{
+  "category": "bronze",
+  "ordnung": "Galliformes",
+  "familie": "Phasianidae",
+  "art": "Perdix perdix",
+  "images": [
+    {
+      "name": "Perdix_perdix_2_(Marek_Szczepanek).jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Perdix_perdix_2_%28Marek_Szczepanek%29.jpg"
+    },
+    {
+      "name": "Perdix_perdix_Turvey_1.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Perdix_perdix_Turvey_1.jpg/500px-Perdix_perdix_Turvey_1.jpg"
+    },
+    {
+      "name": "Partridge_Pair_near_Green_Lake_(17616529706).jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Partridge_Pair_near_Green_Lake_%2817616529706%29.jpg/500px-Partridge_Pair_near_Green_Lake_%2817616529706%29.jpg"
+    },
+    {
+      "name": "Perdix_perdix_(Marek_Szczepanek).jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Perdix_perdix_%28Marek_Szczepanek%29.jpg/500px-Perdix_perdix_%28Marek_Szczepanek%29.jpg"
+    },
+    {
+      "name": "Rebhuhn_perdix_perdix_090501_We_039.JPG",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Rebhuhn_perdix_perdix_090501_We_039.JPG/500px-Rebhuhn_perdix_perdix_090501_We_039.JPG"
+    }
+  ],
+  "sounds": {
+    "sound": {
+      "name": "",
+      "source": ""
+    }
+  }
+}

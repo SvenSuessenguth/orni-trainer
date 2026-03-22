@@ -1,0 +1,30 @@
+{
+  "category": "bronze",
+  "ordnung": "Gruiformes",
+  "familie": "Rallidae",
+  "art": "Gallinula chloropus",
+  "images": [
+    {
+      "name": "Common-Moorhen.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Common-Moorhen.jpg/960px-Common-Moorhen.jpg"
+    },
+    {
+      "name": "Common_moorhen_(Gallinula_chloropus)_with_worm.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Common_moorhen_%28Gallinula_chloropus%29_with_worm.jpg/500px-Common_moorhen_%28Gallinula_chloropus%29_with_worm.jpg"
+    },
+    {
+      "name": "Gallinula_chloropus_-moorhen_and_3_chicks_on_water.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Gallinula_chloropus_-moorhen_and_3_chicks_on_water.jpg/500px-Gallinula_chloropus_-moorhen_and_3_chicks_on_water.jpg"
+    },
+    {
+      "name": "Gallinula_galeata_female_nest.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Gallinula_galeata_female_nest.jpg/500px-Gallinula_galeata_female_nest.jpg"
+    }
+  ],
+  "sounds": {
+    "sound": {
+      "name": "",
+      "source": ""
+    }
+  }
+}
