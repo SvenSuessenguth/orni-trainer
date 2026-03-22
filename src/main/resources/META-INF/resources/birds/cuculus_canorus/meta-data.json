@@ -1,0 +1,38 @@
+{
+  "category": "bronze",
+  "ordnung": "Cuculiformes",
+  "familie": "Cuculidae",
+  "art": "Cuculus canorus",
+  "images": [
+    {
+      "name": "Kägu_õunapuul.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/K%C3%A4gu_%C3%B5unapuul.jpg/960px-K%C3%A4gu_%C3%B5unapuul.jpg"
+    },
+    {
+      "name": "Kuckuck_im_Flug_v._J._Schmidt.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Kuckuck_im_Flug_v._J._Schmidt.jpg/500px-Kuckuck_im_Flug_v._J._Schmidt.jpg"
+    },
+    {
+      "name": "500px-Cuculus_canorus_vogelartinfo.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Cuculus_canorus_vogelartinfo.jpg/500px-Cuculus_canorus_vogelartinfo.jpg"
+    },
+    {
+      "name": "Common_Cuckoo_by_Mike_McKenzie.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Common_Cuckoo_by_Mike_McKenzie.jpg/500px-Common_Cuckoo_by_Mike_McKenzie.jpg"
+    },
+    {
+      "name": "Cuculus_canorus_vogelartinfo_chris_romeiks_CHR0431.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Cuculus_canorus_vogelartinfo_chris_romeiks_CHR0431.jpg/500px-Cuculus_canorus_vogelartinfo_chris_romeiks_CHR0431.jpg"
+    },
+    {
+      "name": "Pepûk.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Pep%C3%BBk.jpg/500px-Pep%C3%BBk.jpg"
+    }
+  ],
+  "sounds": {
+    "sound": {
+      "name": "",
+      "source": ""
+    }
+  }
+}
