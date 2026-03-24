@@ -1,0 +1,30 @@
+{
+  "category": "bronze",
+  "ordnung": "Charadriiformes",
+  "familie": "Laridae",
+  "art": "Chroicocephalus ridibundus",
+  "images": [
+    {
+      "name": "Lachmöwe_Chroicocephalus_ridibundus.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Lachm%C3%B6we_Chroicocephalus_ridibundus.jpg/500px-Lachm%C3%B6we_Chroicocephalus_ridibundus.jpg"
+    },
+    {
+      "name": "Chroicocephalus_ridibundus_-_Zürichhorn_2010-10-05_17-14-50.JPG",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Chroicocephalus_ridibundus_-_Z%C3%BCrichhorn_2010-10-05_17-14-50.JPG/500px-Chroicocephalus_ridibundus_-_Z%C3%BCrichhorn_2010-10-05_17-14-50.JPG"
+    },
+    {
+      "name": "Lachmöwen_451-2.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Lachm%C3%B6wen_451-2.jpg/500px-Lachm%C3%B6wen_451-2.jpg"
+    },
+    {
+      "name": "Larus_ridibundus_winter_plumage_on_steel_pole_cropped_1.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Larus_ridibundus_winter_plumage_on_steel_pole_cropped_1.jpg/500px-Larus_ridibundus_winter_plumage_on_steel_pole_cropped_1.jpg"
+    }
+  ],
+  "sounds": {
+    "sound": {
+      "name": "",
+      "source": ""
+    }
+  }
+}
