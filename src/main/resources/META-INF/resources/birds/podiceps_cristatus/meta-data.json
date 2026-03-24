@@ -1,0 +1,70 @@
+{
+  "category": "bronze",
+  "ordnung": "Podicipediformes",
+  "familie": "Podicipedidae",
+  "art": "Podiceps cristatus",
+  "images": [
+    {
+      "name": "Great_Crested_Grebe_(Podiceps_cristatus)_(26735133762).jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Great_Crested_Grebe_%28Podiceps_cristatus%29_%2826735133762%29.jpg/500px-Great_Crested_Grebe_%28Podiceps_cristatus%29_%2826735133762%29.jpg"
+    },
+    {
+      "name": "Podiceps_cristatus_2_(Lukasz_Lukasik).jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Podiceps_cristatus_2_%28Lukasz_Lukasik%29.jpg/500px-Podiceps_cristatus_2_%28Lukasz_Lukasik%29.jpg"
+    },
+    {
+      "name": "Great_Crested_Grebe_(Winter_Clothing)_(4351708819).jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Great_Crested_Grebe_%28Winter_Clothing%29_%284351708819%29.jpg/500px-Great_Crested_Grebe_%28Winter_Clothing%29_%284351708819%29.jpg"
+    },
+    {
+      "name": "Haubentauchernachwuchs.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Haubentauchernachwuchs.jpg/500px-Haubentauchernachwuchs.jpg"
+    },
+    {
+      "name": "Podiceps_cristatus_juv.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Podiceps_cristatus_juv.jpg/500px-Podiceps_cristatus_juv.jpg"
+    },
+    {
+      "name": "Podiceps_cristatus_-Hogganfield_Loch,_Glasgow,_Scotland_-adult-8_(2).jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Podiceps_cristatus_-Hogganfield_Loch%2C_Glasgow%2C_Scotland_-adult-8_%282%29.jpg/500px-Podiceps_cristatus_-Hogganfield_Loch%2C_Glasgow%2C_Scotland_-adult-8_%282%29.jpg"
+    },
+    {
+      "name": "Podiceps_cristatus_2_(Martin_Mecnarowski).jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Podiceps_cristatus_2_%28Martin_Mecnarowski%29.jpg/500px-Podiceps_cristatus_2_%28Martin_Mecnarowski%29.jpg"
+    },
+    {
+      "name": "Grebes_showing_love.JPG",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Grebes_showing_love.JPG/500px-Grebes_showing_love.JPG"
+    },
+    {
+      "name": "Podiceps_cristatus_-_Holzbrücke_2011-06-09_17-21-32.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Podiceps_cristatus_-_Holzbr%C3%BCcke_2011-06-09_17-21-32.jpg/500px-Podiceps_cristatus_-_Holzbr%C3%BCcke_2011-06-09_17-21-32.jpg"
+    },
+    {
+      "name": "Podiceps_cristatus_-Vaxholm,_Sweden_-nest-8_(1).jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Podiceps_cristatus_-Vaxholm%2C_Sweden_-nest-8_%281%29.jpg/500px-Podiceps_cristatus_-Vaxholm%2C_Sweden_-nest-8_%281%29.jpg"
+    },
+    {
+      "name": "Podiceps_cristatus_1_(Lukasz_Lukasik).jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Podiceps_cristatus_1_%28Lukasz_Lukasik%29.jpg/500px-Podiceps_cristatus_1_%28Lukasz_Lukasik%29.jpg"
+    },
+    {
+      "name": "Family_grebes_father_with_fish.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Family_grebes_father_with_fish.jpg/500px-Family_grebes_father_with_fish.jpg"
+    },
+    {
+      "name": "Grebes_Mother_and_Chick_(6001630489).jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Grebes_Mother_and_Chick_%286001630489%29.jpg/500px-Grebes_Mother_and_Chick_%286001630489%29.jpg"
+    },
+    {
+      "name": "Молодая_чомга_(Podiceps_cristatus),_Коломенское.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/%D0%9C%D0%BE%D0%BB%D0%BE%D0%B4%D0%B0%D1%8F_%D1%87%D0%BE%D0%BC%D0%B3%D0%B0_%28Podiceps_cristatus%29%2C_%D0%9A%D0%BE%D0%BB%D0%BE%D0%BC%D0%B5%D0%BD%D1%81%D0%BA%D0%BE%D0%B5.jpg/500px-%D0%9C%D0%BE%D0%BB%D0%BE%D0%B4%D0%B0%D1%8F_%D1%87%D0%BE%D0%BC%D0%B3%D0%B0_%28Podiceps_cristatus%29%2C_%D0%9A%D0%BE%D0%BB%D0%BE%D0%BC%D0%B5%D0%BD%D1%81%D0%BA%D0%BE%D0%B5.jpg"
+    }
+  ],
+  "sounds": {
+    "sound": {
+      "name": "",
+      "source": ""
+    }
+  }
+}
