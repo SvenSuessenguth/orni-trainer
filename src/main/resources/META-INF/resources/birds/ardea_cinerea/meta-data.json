@@ -1,0 +1,34 @@
+{
+  "category": "bronze",
+  "ordnung": "Pelecaniformes",
+  "familie": "Ardeidae",
+  "art": "Ardea cinerea",
+  "images": [
+    {
+      "name": "Grey_Heron,_Ardea_cinerea,_at_Pilanesberg_National_Park,_Northwest_Province,_South_Africa_(28569532395).jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Grey_Heron%2C_Ardea_cinerea%2C_at_Pilanesberg_National_Park%2C_Northwest_Province%2C_South_Africa_%2828569532395%29.jpg/500px-Grey_Heron%2C_Ardea_cinerea%2C_at_Pilanesberg_National_Park%2C_Northwest_Province%2C_South_Africa_%2828569532395%29.jpg"
+    },
+    {
+      "name": "2_Kilogramm_kann_ein_gut_genährter_Graureiher_schwer_werden._15.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/2_Kilogramm_kann_ein_gut_gen%C3%A4hrter_Graureiher_schwer_werden._15.jpg/500px-2_Kilogramm_kann_ein_gut_gen%C3%A4hrter_Graureiher_schwer_werden._15.jpg"
+    },
+    {
+      "name": "Ardea_cinerea_Winterhabitus.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Ardea_cinerea_Winterhabitus.jpg/500px-Ardea_cinerea_Winterhabitus.jpg"
+    },
+    {
+      "name": "2_Kilogramm_schwer_kann_ein_Graureiher_werden_wenn_er_genügend_Fische_fängt._04.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/2_Kilogramm_schwer_kann_ein_Graureiher_werden_wenn_er_gen%C3%BCgend_Fische_f%C3%A4ngt._04.jpg/500px-2_Kilogramm_schwer_kann_ein_Graureiher_werden_wenn_er_gen%C3%BCgend_Fische_f%C3%A4ngt._04.jpg"
+    },
+    {
+      "name": "Ardea_cinerea_0144_(26380369151).jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Ardea_cinerea_0144_%2826380369151%29.jpg/500px-Ardea_cinerea_0144_%2826380369151%29.jpg"
+    }
+  ],
+  "sounds": {
+    "sound": {
+      "name": "",
+      "source": ""
+    }
+  }
+}
