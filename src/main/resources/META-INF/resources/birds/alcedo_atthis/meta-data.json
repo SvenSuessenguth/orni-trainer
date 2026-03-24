@@ -1,0 +1,42 @@
+{
+  "category": "bronze",
+  "ordnung": "",
+  "familie": "",
+  "art": "",
+  "images": [
+    {
+      "name": "Ein_Eisvogel_im_Schwebflug.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Ein_Eisvogel_im_Schwebflug.jpg/500px-Ein_Eisvogel_im_Schwebflug.jpg"
+    },
+    {
+      "name": "Eisvogeltreffen.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Eisvogeltreffen.jpg/500px-Eisvogeltreffen.jpg"
+    },
+    {
+      "name": "Hunei_District,_Taiwan_(Unsplash_Ori_JWlqVpc).jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Hunei_District%2C_Taiwan_%28Unsplash_Ori_JWlqVpc%29.jpg/500px-Hunei_District%2C_Taiwan_%28Unsplash_Ori_JWlqVpc%29.jpg"
+    },
+    {
+      "name": "Alcedo_atthis_2_(Marek_Szczepanek).jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Alcedo_atthis_2_%28Marek_Szczepanek%29.jpg/500px-Alcedo_atthis_2_%28Marek_Szczepanek%29.jpg"
+    },
+    {
+      "name": "Alcedo_atthis_-_Riserve_naturali_e_aree_contigue_della_fascia_fluviale_del_Po.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Alcedo_atthis_-_Riserve_naturali_e_aree_contigue_della_fascia_fluviale_del_Po.jpg/500px-Alcedo_atthis_-_Riserve_naturali_e_aree_contigue_della_fascia_fluviale_del_Po.jpg"
+    },
+    {
+      "name": "Common_kingfisher_in_flight.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Common_kingfisher_in_flight.jpg/500px-Common_kingfisher_in_flight.jpg"
+    },
+    {
+      "name": "পাতি_মাছরাঙ্গা_(Alcedo_atthis),_জাতীয়_উদ্ভিদ_উদ্যান_ঢাকা.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BF_%E0%A6%AE%E0%A6%BE%E0%A6%9B%E0%A6%B0%E0%A6%BE%E0%A6%99%E0%A7%8D%E0%A6%97%E0%A6%BE_%28Alcedo_atthis%29%2C_%E0%A6%9C%E0%A6%BE%E0%A6%A4%E0%A7%80%E0%A6%AF%E0%A6%BC_%E0%A6%89%E0%A6%A6%E0%A7%8D%E0%A6%AD%E0%A6%BF%E0%A6%A6_%E0%A6%89%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A8_%E0%A6%A2%E0%A6%BE%E0%A6%95%E0%A6%BE.jpg/500px-%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BF_%E0%A6%AE%E0%A6%BE%E0%A6%9B%E0%A6%B0%E0%A6%BE%E0%A6%99%E0%A7%8D%E0%A6%97%E0%A6%BE_%28Alcedo_atthis%29%2C_%E0%A6%9C%E0%A6%BE%E0%A6%A4%E0%A7%80%E0%A6%AF%E0%A6%BC_%E0%A6%89%E0%A6%A6%E0%A7%8D%E0%A6%AD%E0%A6%BF%E0%A6%A6_%E0%A6%89%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A8_%E0%A6%A2%E0%A6%BE%E0%A6%95%E0%A6%BE.jpg"
+    }
+  ],
+  "sounds": {
+    "sound": {
+      "name": "",
+      "source": ""
+    }
+  }
+}
