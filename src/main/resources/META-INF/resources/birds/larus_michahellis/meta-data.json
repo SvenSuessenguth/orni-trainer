@@ -1,0 +1,30 @@
+{
+  "category": "bronze",
+  "ordnung": "Charadriiformes",
+  "familie": "Laridae",
+  "art": "Larus michahellis",
+  "images": [
+    {
+      "name": "Mittelmeermöwe.JPG",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Mittelmeerm%C3%B6we.JPG/500px-Mittelmeerm%C3%B6we.JPG"
+    },
+    {
+      "name": "2012-01-18_13-41-21_Spain_Canarias_Jandía.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/2012-01-18_13-41-21_Spain_Canarias_Jand%C3%ADa.jpg/500px-2012-01-18_13-41-21_Spain_Canarias_Jand%C3%ADa.jpg"
+    },
+    {
+      "name": "Larus_michahellis_in_Farnese_Gardens_05 (1).jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Larus_michahellis_in_Farnese_Gardens_05.jpg/500px-Larus_michahellis_in_Farnese_Gardens_05.jpg"
+    },
+    {
+      "name": "Gull_of_Gibraltar_(8483055557).jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Gull_of_Gibraltar_%288483055557%29.jpg/500px-Gull_of_Gibraltar_%288483055557%29.jpg"
+    }
+  ],
+  "sounds": {
+    "sound": {
+      "name": "",
+      "source": ""
+    }
+  }
+}

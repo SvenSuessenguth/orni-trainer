@@ -1,0 +1,42 @@
+{
+  "category": "bronze",
+  "ordnung": "Apodiformes",
+  "familie": "Apodidae",
+  "art": "Apus apus",
+  "images": [
+    {
+      "name": "Apus_apus_flock_flying_1.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Apus_apus_flock_flying_1.jpg/500px-Apus_apus_flock_flying_1.jpg"
+    },
+    {
+      "name": "ApusApusKlausRoggel03.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/ApusApusKlausRoggel03.jpg/500px-ApusApusKlausRoggel03.jpg"
+    },
+    {
+      "name": "ApusApusKlausRoggel02.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/ApusApusKlausRoggel02.jpg/500px-ApusApusKlausRoggel02.jpg"
+    },
+    {
+      "name": "ApusApusKlausRoggel01.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/ApusApusKlausRoggel01.jpg/330px-ApusApusKlausRoggel01.jpg"
+    },
+    {
+      "name": "Apus_apus_01.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Apus_apus_01.jpg/330px-Apus_apus_01.jpg"
+    },
+    {
+      "name": "Apus_apus_cm01.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Apus_apus_cm01.jpg"
+    },
+    {
+      "name": "ApusApusKlausRoggel05.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/ApusApusKlausRoggel05.jpg/330px-ApusApusKlausRoggel05.jpg"
+    }
+  ],
+  "sounds": {
+    "sound": {
+      "name": "",
+      "source": ""
+    }
+  }
+}
