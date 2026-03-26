@@ -1,0 +1,30 @@
+{
+  "category": "bronze",
+  "ordnung": "Charadriiformes",
+  "familie": "Scolopacidae",
+  "art": "Actitis hypoleucos",
+  "images": [
+    {
+      "name": "Common_sandpiper_lake_geneva-4.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Common_sandpiper_lake_geneva-4.jpg/500px-Common_sandpiper_lake_geneva-4.jpg"
+    },
+    {
+      "name": "Common_Sandpiper_(Actitis_hypoleucos),_Sfax,_Tunisia.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Common_Sandpiper_%28Actitis_hypoleucos%29%2C_Sfax%2C_Tunisia.jpg/500px-Common_Sandpiper_%28Actitis_hypoleucos%29%2C_Sfax%2C_Tunisia.jpg"
+    },
+    {
+      "name": "Actitis_hypoleucos.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Actitis_hypoleucos.jpg/500px-Actitis_hypoleucos.jpg"
+    },
+    {
+      "name": "Common_Sandpiper_Actitis_hypoleucos.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Common_Sandpiper_Actitis_hypoleucos.jpg/500px-Common_Sandpiper_Actitis_hypoleucos.jpg"
+    }
+  ],
+  "sounds": {
+    "sound": {
+      "name": "",
+      "source": ""
+    }
+  }
+}
