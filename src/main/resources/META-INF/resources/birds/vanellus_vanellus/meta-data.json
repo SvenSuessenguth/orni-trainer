@@ -1,0 +1,30 @@
+{
+  "category": "bronze",
+  "ordnung": "Charadriiformes",
+  "familie": "Charadriidae",
+  "art": "Vanellus vanellus",
+  "images": [
+    {
+      "name": "Northern-Lapwing-Vanellus-vanellus_crop.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Northern-Lapwing-Vanellus-vanellus_crop.jpg/500px-Northern-Lapwing-Vanellus-vanellus_crop.jpg"
+    },
+    {
+      "name": "Kiebitz_050424ausschnitt.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Kiebitz_050424ausschnitt.jpg/500px-Kiebitz_050424ausschnitt.jpg"
+    },
+    {
+      "name": "Młoda_czajka_zwyczajna,_stawy_pod_Szczerbakowem,_świętokrzyskie,_20210613_1108_7340.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/M%C5%82oda_czajka_zwyczajna%2C_stawy_pod_Szczerbakowem%2C_%C5%9Bwi%C4%99tokrzyskie%2C_20210613_1108_7340.jpg/500px-M%C5%82oda_czajka_zwyczajna%2C_stawy_pod_Szczerbakowem%2C_%C5%9Bwi%C4%99tokrzyskie%2C_20210613_1108_7340.jpg"
+    },
+    {
+      "name": "A7R08680_(52128551952).jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/A7R08680_%2852128551952%29.jpg/500px-A7R08680_%2852128551952%29.jpg"
+    }
+  ],
+  "sounds": {
+    "sound": {
+      "name": "",
+      "source": ""
+    }
+  }
+}
