@@ -1,0 +1,54 @@
+{
+  "category": "bronze",
+  "ordnung": "Piciformes",
+  "familie": "Picidae",
+  "art": "Picus viridis",
+  "images": [
+    {
+      "name": "03_vgrue-10-11.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/d/df/03_vgrue-10-11.jpg"
+    },
+    {
+      "name": "Naumann_gruenspecht.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Naumann_gruenspecht.jpg/330px-Naumann_gruenspecht.jpg"
+    },
+    {
+      "name": "European_Green_Woodpecker.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/European_Green_Woodpecker.jpg/500px-European_Green_Woodpecker.jpg"
+    },
+    {
+      "name": "Green_Woodpecker_wing.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Green_Woodpecker_wing.jpg/500px-Green_Woodpecker_wing.jpg"
+    },
+    {
+      "name": "2019_Grünspecht_im_Winter.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/2019_Gr%C3%BCnspecht_im_Winter.jpg/500px-2019_Gr%C3%BCnspecht_im_Winter.jpg"
+    },
+    {
+      "name": "Picus_viridis_sharpei_115.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Picus_viridis_sharpei_115.jpg/500px-Picus_viridis_sharpei_115.jpg"
+    },
+    {
+      "name": "Picus_viridis_juv(ThKraft).jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Picus_viridis_juv%28ThKraft%29.jpg/500px-Picus_viridis_juv%28ThKraft%29.jpg"
+    },
+    {
+      "name": "Picus_viridis_sharpei_027.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Picus_viridis_sharpei_027.jpg/500px-Picus_viridis_sharpei_027.jpg"
+    },
+    {
+      "name": "Green_woodpecker_(female).jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Green_woodpecker_%28female%29.jpg/500px-Green_woodpecker_%28female%29.jpg"
+    },
+    {
+      "name": "Grünspecht(Picus_viridis)_Nussbaum.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Gr%C3%BCnspecht%28Picus_viridis%29_Nussbaum.jpg/500px-Gr%C3%BCnspecht%28Picus_viridis%29_Nussbaum.jpg"
+    }
+  ],
+  "sounds": {
+    "sound": {
+      "name": "",
+      "source": ""
+    }
+  }
+}
