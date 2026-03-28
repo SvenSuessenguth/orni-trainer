@@ -35,6 +35,7 @@ public class QuizUiState implements Serializable {
 
         // select first bird
         selectBird();
+        getBirdImage();
     }
 
     public String getBirdImage() {

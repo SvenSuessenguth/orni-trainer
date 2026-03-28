@@ -21,6 +21,7 @@ public class QuizUiService {
     public String correct() {
         var bird = quizUiState.getBird();
         quizUiState.getBirdsAnsweredNotCorrect().remove(bird);
+        quizUiState.selectBird();
         return null;
     }
 
