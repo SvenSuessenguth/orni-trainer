@@ -19,6 +19,8 @@ public class QuizUiState implements Serializable {
     private Resources resources;
 
     private Category category;
+    private Hint hint;
+
     private List<Bird> birdsInCategory;
     private List<Bird> birdsAnsweredCorrectly;
     private List<Bird> birdsAnsweredWrongly;

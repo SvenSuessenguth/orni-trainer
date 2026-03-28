@@ -9,4 +9,8 @@ public class QuizUiService {
     public Category[] getAllCategories() {
         return Category.values();
     }
+
+    public Hint[] getAllHints() {
+        return Hint.values();
+    }
 }
