@@ -1,0 +1,38 @@
+{
+  "category": "bronze",
+  "ordnung": "Passeriformes",
+  "familie": "Prunellidae",
+  "art": "Prunella modularis",
+  "images": [
+    {
+      "name": "20_Gramm_wiegt_im_Durchschnitt_eine_Heckenbraunelle._04.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/20_Gramm_wiegt_im_Durchschnitt_eine_Heckenbraunelle._04.jpg/500px-20_Gramm_wiegt_im_Durchschnitt_eine_Heckenbraunelle._04.jpg"
+    },
+    {
+      "name": "Acentor_común23_by_Paco_Gómez.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Acentor_com%C3%BAn23_by_Paco_G%C3%B3mez.jpg/250px-Acentor_com%C3%BAn23_by_Paco_G%C3%B3mez.jpg"
+    },
+    {
+      "name": "Prunella_modularis_ahisgett1.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Prunella_modularis_ahisgett1.jpg/250px-Prunella_modularis_ahisgett1.jpg"
+    },
+    {
+      "name": "A_Dunnock_in_take-off_(12861308634).jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/A_Dunnock_in_take-off_%2812861308634%29.jpg/250px-A_Dunnock_in_take-off_%2812861308634%29.jpg"
+    },
+    {
+      "name": "Male_Dunnock_Singing_into_Spring.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Male_Dunnock_Singing_into_Spring.jpg/250px-Male_Dunnock_Singing_into_Spring.jpg"
+    },
+    {
+      "name": "Singing_Dunnock_(Prunella_modularis).jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Singing_Dunnock_%28Prunella_modularis%29.jpg/250px-Singing_Dunnock_%28Prunella_modularis%29.jpg"
+    }
+  ],
+  "sounds": {
+    "sound": {
+      "name": "Prunella_modularis_(06_03_06).ogg.mp3",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/transcoded/c/c9/Prunella_modularis_%2806_03_06%29.ogg/Prunella_modularis_%2806_03_06%29.ogg.mp3"
+    }
+  }
+}
