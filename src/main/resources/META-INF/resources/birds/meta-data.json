@@ -1,18 +1,18 @@
 {
-  "category": "bronze",
+  "category": "BRONZE",
   "ordnung": "",
   "familie": "",
-  "art": "",
+  "species": "",
   "images": [
     {
       "name": "",
       "source": ""
     }
   ],
-  "sounds": {
-    "sound": {
+  "sounds": [
+    {
       "name": "",
       "source": ""
     }
-  }
+  ]
 }

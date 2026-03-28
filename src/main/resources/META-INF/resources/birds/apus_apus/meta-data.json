@@ -1,8 +1,8 @@
 {
-  "category": "bronze",
+  "category": "BRONZE",
   "ordnung": "Apodiformes",
   "familie": "Apodidae",
-  "art": "Apus apus",
+  "species": "Apus apus",
   "images": [
     {
       "name": "Apus_apus_flock_flying_1.jpg",
@@ -33,10 +33,10 @@
       "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/ApusApusKlausRoggel05.jpg/330px-ApusApusKlausRoggel05.jpg"
     }
   ],
-  "sounds": {
-    "sound": {
+  "sounds": [
+    {
       "name": "",
       "source": ""
     }
-  }
+  ]
 }

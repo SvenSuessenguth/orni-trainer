@@ -1,8 +1,8 @@
 {
-  "category": "bronze",
+  "category": "BRONZE",
   "ordnung": "",
   "familie": "",
-  "art": "",
+  "species": "",
   "images": [
     {
       "name": "Большая_пёстрая_дятлиха,_Усынинская_поляна.jpg",
@@ -25,10 +25,10 @@
       "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/DendrocoposMajor.jpg/500px-DendrocoposMajor.jpg"
     }
   ],
-  "sounds": {
-    "sound": {
+  "sounds": [
+    {
       "name": "",
       "source": ""
     }
-  }
+  ]
 }

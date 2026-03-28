@@ -1,8 +1,8 @@
 {
-  "category": "bronze",
+  "category": "BRONZE",
   "ordnung": "Passeriformes",
   "familie": "Emberizidae",
-  "art": "Emberiza citrinella",
+  "species": "Emberiza citrinella",
   "images": [
     {
       "name": "Goldammer_EO5P7899-2.jpg",
@@ -21,10 +21,10 @@
       "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Emberiza_citrinella_vogelartinfo_chris_romeiks_CHR1540.jpg/500px-Emberiza_citrinella_vogelartinfo_chris_romeiks_CHR1540.jpg"
     }
   ],
-  "sounds": {
-    "sound": {
+  "sounds": [
+    {
       "name": "",
       "source": ""
     }
-  }
+  ]
 }

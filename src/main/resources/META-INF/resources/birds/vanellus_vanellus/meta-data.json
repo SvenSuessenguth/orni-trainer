@@ -1,8 +1,8 @@
 {
-  "category": "bronze",
+  "category": "BRONZE",
   "ordnung": "Charadriiformes",
   "familie": "Charadriidae",
-  "art": "Vanellus vanellus",
+  "species": "Vanellus vanellus",
   "images": [
     {
       "name": "Northern-Lapwing-Vanellus-vanellus_crop.jpg",
@@ -21,10 +21,10 @@
       "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/A7R08680_%2852128551952%29.jpg/500px-A7R08680_%2852128551952%29.jpg"
     }
   ],
-  "sounds": {
-    "sound": {
+  "sounds": [
+    {
       "name": "",
       "source": ""
     }
-  }
+  ]
 }

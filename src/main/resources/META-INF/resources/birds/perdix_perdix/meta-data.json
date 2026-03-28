@@ -1,8 +1,8 @@
 {
-  "category": "bronze",
+  "category": "BRONZE",
   "ordnung": "Galliformes",
   "familie": "Phasianidae",
-  "art": "Perdix perdix",
+  "species": "Perdix perdix",
   "images": [
     {
       "name": "Perdix_perdix_2_(Marek_Szczepanek).jpg",
@@ -25,10 +25,10 @@
       "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Rebhuhn_perdix_perdix_090501_We_039.JPG/500px-Rebhuhn_perdix_perdix_090501_We_039.JPG"
     }
   ],
-  "sounds": {
-    "sound": {
+  "sounds": [
+    {
       "name": "",
       "source": ""
     }
-  }
+  ]
 }

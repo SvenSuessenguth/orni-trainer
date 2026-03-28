@@ -1,8 +1,8 @@
 {
-  "category": "bronze",
+  "category": "BRONZE",
   "ordnung": "Falconiformes",
   "familie": "Falconidae",
-  "art": "Falco tinnunculus",
+  "species": "Falco tinnunculus",
   "images": [
     {
       "name": "Common_kestrel_falco_tinnunculus.jpg",
@@ -69,10 +69,10 @@
       "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Common_kestrel.jpg/500px-Common_kestrel.jpg"
     }
   ],
-  "sounds": {
-    "sound": {
+  "sounds": [
+    {
       "name": "",
       "source": ""
     }
-  }
+  ]
 }

@@ -1,8 +1,8 @@
 {
-  "category": "bronze",
+  "category": "BRONZE",
   "ordnung": "Cuculiformes",
   "familie": "Cuculidae",
-  "art": "Cuculus canorus",
+  "species": "Cuculus canorus",
   "images": [
     {
       "name": "Kägu_õunapuul.jpg",
@@ -29,10 +29,10 @@
       "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Pep%C3%BBk.jpg/500px-Pep%C3%BBk.jpg"
     }
   ],
-  "sounds": {
-    "sound": {
+  "sounds": [
+    {
       "name": "",
       "source": ""
     }
-  }
+  ]
 }

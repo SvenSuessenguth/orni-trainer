@@ -1,8 +1,8 @@
 {
-  "category": "bronze",
+  "category": "BRONZE",
   "ordnung": "Podicipediformes",
   "familie": "Podicipedidae",
-  "art": "Tachybaptus ruficollis",
+  "species": "Tachybaptus ruficollis",
   "images": [
     {
       "name": "Little_grebe_Zwergtaucher.jpg",
@@ -37,10 +37,10 @@
       "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Tachybaptus_ruficollis_vogelartinfo_chris_romeiks_R7F9220.jpg/500px-Tachybaptus_ruficollis_vogelartinfo_chris_romeiks_R7F9220.jpg"
     }
   ],
-  "sounds": {
-    "sound": {
+  "sounds": [
+    {
       "name": "",
       "source": ""
     }
-  }
+  ]
 }

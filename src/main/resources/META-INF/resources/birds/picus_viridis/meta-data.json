@@ -1,8 +1,8 @@
 {
-  "category": "bronze",
+  "category": "BRONZE",
   "ordnung": "Piciformes",
   "familie": "Picidae",
-  "art": "Picus viridis",
+  "species": "Picus viridis",
   "images": [
     {
       "name": "03_vgrue-10-11.jpg",

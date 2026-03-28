@@ -1,8 +1,8 @@
 {
-  "category": "bronze",
+  "category": "BRONZE",
   "ordnung": "Podicipediformes",
   "familie": "Podicipedidae",
-  "art": "Podiceps cristatus",
+  "species": "Podiceps cristatus",
   "images": [
     {
       "name": "Great_Crested_Grebe_(Podiceps_cristatus)_(26735133762).jpg",
@@ -61,10 +61,10 @@
       "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/%D0%9C%D0%BE%D0%BB%D0%BE%D0%B4%D0%B0%D1%8F_%D1%87%D0%BE%D0%BC%D0%B3%D0%B0_%28Podiceps_cristatus%29%2C_%D0%9A%D0%BE%D0%BB%D0%BE%D0%BC%D0%B5%D0%BD%D1%81%D0%BA%D0%BE%D0%B5.jpg/500px-%D0%9C%D0%BE%D0%BB%D0%BE%D0%B4%D0%B0%D1%8F_%D1%87%D0%BE%D0%BC%D0%B3%D0%B0_%28Podiceps_cristatus%29%2C_%D0%9A%D0%BE%D0%BB%D0%BE%D0%BC%D0%B5%D0%BD%D1%81%D0%BA%D0%BE%D0%B5.jpg"
     }
   ],
-  "sounds": {
-    "sound": {
+  "sounds": [
+    {
       "name": "",
       "source": ""
     }
-  }
+  ]
 }

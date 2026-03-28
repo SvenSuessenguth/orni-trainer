@@ -1,8 +1,8 @@
 {
-  "category": "bronze",
+  "category": "BRONZE",
   "ordnung": "Charadriiformes",
   "familie": "Scolopacidae",
-  "art": "Actitis hypoleucos",
+  "species": "Actitis hypoleucos",
   "images": [
     {
       "name": "Common_sandpiper_lake_geneva-4.jpg",
@@ -21,10 +21,10 @@
       "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Common_Sandpiper_Actitis_hypoleucos.jpg/500px-Common_Sandpiper_Actitis_hypoleucos.jpg"
     }
   ],
-  "sounds": {
-    "sound": {
+  "sounds": [
+    {
       "name": "",
       "source": ""
     }
-  }
+  ]
 }

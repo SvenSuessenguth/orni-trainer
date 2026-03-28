@@ -1,8 +1,8 @@
 {
-  "category": "bronze",
+  "category": "BRONZE",
   "ordnung": "Strigiformes",
   "familie": "Strigidae",
-  "art": "Strix aluco",
+  "species": "Strix aluco",
   "images": [
     {
       "name": "500px-Waldkauz-Strix_aluco.jpg",
@@ -21,10 +21,10 @@
       "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Bosuil.jpg/500px-Bosuil.jpg"
     }
   ],
-  "sounds": {
-    "sound": {
+  "sounds": [
+    {
       "name": "",
       "source": ""
     }
-  }
+  ]
 }

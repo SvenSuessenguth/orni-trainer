@@ -1,8 +1,8 @@
 {
-  "category": "bronze",
+  "category": "BRONZE",
   "ordnung": "Accipitriformes",
   "familie": "Accipitridae",
-  "art": "Milvus milvus",
+  "species": "Milvus milvus",
   "images": [
     {
       "name": "Milvus_milvus_R(ThKraft).jpg",
@@ -25,10 +25,10 @@
       "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Milan_mit_Beute.jpg/500px-Milan_mit_Beute.jpg"
     }
   ],
-  "sounds": {
-    "sound": {
+  "sounds": [
+    {
       "name": "",
       "source": ""
     }
-  }
+  ]
 }

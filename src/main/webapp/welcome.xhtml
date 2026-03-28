@@ -29,11 +29,15 @@
                            itemLabel="#{i18nText['orc.cc.orni.trainer.Hint.' += s.name()]}"/>
         </h:selectOneMenu>
         <hr/>
-        <h:graphicImage library="birds" name="#{quizUiState.randomBirdRandomImage}" style="width: 500px; height: auto"/>
+        <h:graphicImage library="birds" name="#{quizUiState.birdImage}"
+                        rendered="#{quizUiState.imageHint}"
+                        style="width: 500px; height: auto"/>
+        <h:outputText value="#{quizUiState.bird.species}"
+                      rendered="#{quizUiState.speciesHint}"/>
         <hr/>
-        <h:commandButton value="#{i18nText.solution}"/>
-        <h:commandButton value="#{i18nText.correct}"/>
-        <h:commandButton value="#{i18nText.incorrect}"/>
+        <h:commandButton value="#{i18nText.solution}" action="#{quizUiService.showSolution()}"/>
+        <h:commandButton value="#{i18nText.correct}" action="#{quizUiService.correct()}"/>
+        <h:commandButton value="#{i18nText.incorrect}" action="#{quizUiService.incorrect()}"/>
     </ui:define>
 </ui:composition>
 </html>

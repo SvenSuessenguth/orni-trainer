@@ -1,8 +1,8 @@
 {
-  "category": "bronze",
+  "category": "BRONZE",
   "ordnung": "Passeriformes",
   "familie": "Prunellidae",
-  "art": "Prunella modularis",
+  "species": "Prunella modularis",
   "images": [
     {
       "name": "20_Gramm_wiegt_im_Durchschnitt_eine_Heckenbraunelle._04.jpg",
@@ -29,10 +29,10 @@
       "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Singing_Dunnock_%28Prunella_modularis%29.jpg/250px-Singing_Dunnock_%28Prunella_modularis%29.jpg"
     }
   ],
-  "sounds": {
-    "sound": {
+  "sounds": [
+    {
       "name": "Prunella_modularis_(06_03_06).ogg.mp3",
       "source": "https://upload.wikimedia.org/wikipedia/commons/transcoded/c/c9/Prunella_modularis_%2806_03_06%29.ogg/Prunella_modularis_%2806_03_06%29.ogg.mp3"
     }
-  }
+  ]
 }

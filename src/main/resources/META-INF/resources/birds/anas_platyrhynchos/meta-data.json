@@ -1,8 +1,8 @@
 {
-  "category": "bronze",
+  "category": "BRONZE",
   "ordnung": "Anseriformes",
   "familie": "Anatidae",
-  "art": "Anas platyrhynchos",
+  "species": "Anas platyrhynchos",
   "images": [
     {
       "name": "Mallard_male_female.jpg",
@@ -29,10 +29,10 @@
       "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Stockentenschwarm.JPG/500px-Stockentenschwarm.JPG"
     }
   ],
-  "sounds": {
-    "sound": {
+  "sounds": [
+    {
       "name": "",
       "source": ""
     }
-  }
+  ]
 }

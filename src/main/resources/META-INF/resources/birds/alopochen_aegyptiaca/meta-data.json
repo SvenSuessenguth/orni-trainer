@@ -1,8 +1,8 @@
 {
-  "category": "bronze",
+  "category": "BRONZE",
   "ordnung": "Anseriformes",
   "familie": "Anatidae",
-  "art": "Alopochen aegyptiaca",
+  "species": "Alopochen aegyptiaca",
   "images": [
     {
       "name": "Alopochen-aegyptiacus.jpg",
@@ -29,10 +29,10 @@
       "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Egyptian-Goose.jpg/500px-Egyptian-Goose.jpg"
     }
   ],
-  "sounds": {
-    "sound": {
+  "sounds": [
+    {
       "name": "",
       "source": ""
     }
-  }
+  ]
 }

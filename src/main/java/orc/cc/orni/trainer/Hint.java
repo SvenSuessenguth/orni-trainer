@@ -1,7 +1,7 @@
 package orc.cc.orni.trainer;
 
 public enum Hint {
-    PICTURE,
+    IMAGE,
     SPECIES,
-    SINGING;
+    SOUND;
 }

@@ -1,5 +1,6 @@
 package orc.cc.orni.trainer;
 
+import jakarta.annotation.PostConstruct;
 import jakarta.faces.view.ViewScoped;
 import jakarta.inject.Inject;
 import jakarta.inject.Named;
@@ -7,6 +8,7 @@ import lombok.Data;
 import lombok.extern.java.Log;
 
 import java.io.Serializable;
+import java.util.ArrayList;
 import java.util.List;
 import java.util.concurrent.ThreadLocalRandom;
 
@@ -18,26 +20,62 @@ public class QuizUiState implements Serializable {
     @Inject
     private Resources resources;
 
-    private Category category;
+    private Category category = Category.BRONZE;
     private Hint hint;
+    private Bird bird;
 
-    private List<Bird> birdsInCategory;
-    private List<Bird> birdsAnsweredCorrectly;
-    private List<Bird> birdsAnsweredWrongly;
+    private List<Bird> birdsAnsweredNotCorrect = new ArrayList<>();
 
-    public String getRandomBirdRandomImage() {
-        var countBirds = resources.getBirds().size();
-        var randomBirdNumber = ThreadLocalRandom.current().nextInt(0, countBirds);
-        log.info("Random Bird number is: " + randomBirdNumber);
-        var randomBird = resources.getBirds().get(randomBirdNumber);
+    @PostConstruct
+    public void postConstruct() {
+        // load resources
+        resources.getBirds().stream()
+                .filter(b -> b.getCategory() == category)
+                .forEach(b -> birdsAnsweredNotCorrect.add(b));
 
-        var path = randomBird.getArt().replace(" ", "_");
-        var countImages = randomBird.getImages().size();
+        // select first bird
+        selectBird();
+    }
+
+    public String getBirdImage() {
+        var path = bird.getSpecies().replace(" ", "_");
+        var countImages = bird.getImages().size();
         var randomImageNumber = ThreadLocalRandom.current().nextInt(0, countImages);
         log.info("Random image number is: " + randomImageNumber);
-        var randomImageName = randomBird.getImages().get(randomImageNumber).name();
+        var randomImageName = bird.getImages().get(randomImageNumber).name();
 
         log.info("randomImageName: " + path.toLowerCase() + "/" + randomImageName);
         return path.toLowerCase() + "/" + randomImageName;
+    }
+
+    public String getBirdSound() {
+        var path = bird.getSpecies().replace(" ", "_");
+        var countSounds = bird.getSounds().size();
+        var randomSoundNumber = ThreadLocalRandom.current().nextInt(0, countSounds);
+        log.info("Random soound number is: " + randomSoundNumber);
+        var randomSoundName = bird.getImages().get(randomSoundNumber).name();
+
+        log.info("randomSoundName: " + path.toLowerCase() + "/" + randomSoundName);
+        return path.toLowerCase() + "/" + randomSoundName;
+    }
+
+    void selectBird() {
+        var countBirds = birdsAnsweredNotCorrect.size();
+        var birdNumber = ThreadLocalRandom.current().nextInt(0, countBirds);
+        log.info("Random Bird number is: " + birdNumber);
+
+        bird = resources.getBirds().get(birdNumber);
+    }
+
+    public boolean isImageHint() {
+        return hint == Hint.IMAGE;
+    }
+
+    public boolean isSoundHint() {
+        return hint == Hint.SOUND;
+    }
+
+    public boolean isSpeciesHint() {
+        return hint == Hint.SPECIES;
     }
 }

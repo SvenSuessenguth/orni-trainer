@@ -7,8 +7,10 @@ import lombok.Data;
 
 @Data
 public class Bird implements Serializable {
-  String art;
+  Category category;
+  String species;
   String ordnung;
   String familie;
   List<Image> images;
+  List<Sound> sounds;
 }

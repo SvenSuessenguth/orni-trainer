@@ -1,8 +1,8 @@
 {
-  "category": "bronze",
+  "category": "BRONZE",
   "ordnung": "Gruiformes",
   "familie": "Rallidae",
-  "art": "Gallinula chloropus",
+  "species": "Gallinula chloropus",
   "images": [
     {
       "name": "Common-Moorhen.jpg",
@@ -21,10 +21,10 @@
       "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Gallinula_galeata_female_nest.jpg/500px-Gallinula_galeata_female_nest.jpg"
     }
   ],
-  "sounds": {
-    "sound": {
+  "sounds": [
+    {
       "name": "",
       "source": ""
     }
-  }
+  ]
 }

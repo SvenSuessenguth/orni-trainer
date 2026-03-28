@@ -1,8 +1,8 @@
 {
-  "category": "bronze",
+  "category": "BRONZE",
   "ordnung": "Suliformes",
   "familie": "Phalacrocoracidae",
-  "art": "Phalacrocorax carbo",
+  "species": "Phalacrocorax carbo",
   "images": [
     {
       "name": "Phalacrocorax_carbo_Vic.jpg",
@@ -29,10 +29,10 @@
       "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Kormoran_030-2.jpg/500px-Kormoran_030-2.jpg"
     }
   ],
-  "sounds": {
-    "sound": {
+  "sounds": [
+    {
       "name": "",
       "source": ""
     }
-  }
+  ]
 }

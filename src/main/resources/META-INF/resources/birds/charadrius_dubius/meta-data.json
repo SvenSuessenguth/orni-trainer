@@ -1,8 +1,8 @@
 {
-  "category": "bronze",
+  "category": "BRONZE",
   "ordnung": "Charadriiformes",
   "familie": "Charadriidae",
-  "art": "Charadrius dubius",
+  "species": "Charadrius dubius",
   "images": [
     {
       "name": "Flussregenpfeifer_Little_ringed_plover.jpg",
@@ -17,10 +17,10 @@
       "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Flussregenpfeifer_Charadrius_dubius.jpg/500px-Flussregenpfeifer_Charadrius_dubius.jpg"
     }
   ],
-  "sounds": {
-    "sound": {
+  "sounds": [
+    {
       "name": "",
       "source": ""
     }
-  }
+  ]
 }

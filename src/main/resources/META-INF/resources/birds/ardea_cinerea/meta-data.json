@@ -1,8 +1,8 @@
 {
-  "category": "bronze",
+  "category": "BRONZE",
   "ordnung": "Pelecaniformes",
   "familie": "Ardeidae",
-  "art": "Ardea cinerea",
+  "species": "Ardea cinerea",
   "images": [
     {
       "name": "Grey_Heron,_Ardea_cinerea,_at_Pilanesberg_National_Park,_Northwest_Province,_South_Africa_(28569532395).jpg",
@@ -25,10 +25,10 @@
       "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Ardea_cinerea_0144_%2826380369151%29.jpg/500px-Ardea_cinerea_0144_%2826380369151%29.jpg"
     }
   ],
-  "sounds": {
-    "sound": {
+  "sounds": [
+    {
       "name": "",
       "source": ""
     }
-  }
+  ]
 }

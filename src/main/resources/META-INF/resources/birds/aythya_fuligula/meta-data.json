@@ -1,8 +1,8 @@
 {
-  "category": "bronze",
+  "category": "BRONZE",
   "ordnung": "Anseriformes",
   "familie": "Anatidae",
-  "art": "Aythya fuligula",
+  "species": "Aythya fuligula",
   "images": [
     {
       "name": "Tufted-Duck-male-female.jpg",
@@ -21,10 +21,10 @@
       "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Aythya_fuligula_01.jpg/500px-Aythya_fuligula_01.jpg"
     }
   ],
-  "sounds": {
-    "sound": {
+  "sounds": [
+    {
       "name": "",
       "source": ""
     }
-  }
+  ]
 }

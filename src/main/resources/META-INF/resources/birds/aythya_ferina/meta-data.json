@@ -1,8 +1,8 @@
 {
-  "category": "bronze",
+  "category": "BRONZE",
   "ordnung": "Anseriformes",
   "familie": "Anatidae",
-  "art": "Aythya ferina",
+  "species": "Aythya ferina",
   "images": [
     {
       "name": "Красноголовый_нырок_(Aythya_ferina,_mas),_Белое_озеро (1).jpg",
@@ -17,10 +17,10 @@
       "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Aythya_ferina_-_Busskirch_2011-02-12_16-03-54.jpg/500px-Aythya_ferina_-_Busskirch_2011-02-12_16-03-54.jpg"
     }
   ],
-  "sounds": {
-    "sound": {
+  "sounds": [
+    {
       "name": "",
       "source": ""
     }
-  }
+  ]
 }

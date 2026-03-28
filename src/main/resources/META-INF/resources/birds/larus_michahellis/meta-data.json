@@ -1,8 +1,8 @@
 {
-  "category": "bronze",
+  "category": "BRONZE",
   "ordnung": "Charadriiformes",
   "familie": "Laridae",
-  "art": "Larus michahellis",
+  "species": "Larus michahellis",
   "images": [
     {
       "name": "Mittelmeermöwe.JPG",
@@ -21,10 +21,10 @@
       "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Gull_of_Gibraltar_%288483055557%29.jpg/500px-Gull_of_Gibraltar_%288483055557%29.jpg"
     }
   ],
-  "sounds": {
-    "sound": {
+  "sounds": [
+    {
       "name": "",
       "source": ""
     }
-  }
+  ]
 }
