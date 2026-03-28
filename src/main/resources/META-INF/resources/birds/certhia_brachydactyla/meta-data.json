@@ -1,0 +1,22 @@
+{
+  "category": "bronze",
+  "ordnung": "Passeriformes",
+  "familie": "Certhiidae",
+  "art": "Certhia brachydactyla",
+  "images": [
+    {
+      "name": "Short-toed_Treecreeper_(Certhia_brachydactyla).jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Short-toed_Treecreeper_%28Certhia_brachydactyla%29.jpg/500px-Short-toed_Treecreeper_%28Certhia_brachydactyla%29.jpg"
+    },
+    {
+      "name": "Gartenbaumläufer_an_der_Großen_Malche_in_Berlin.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Gartenbauml%C3%A4ufer_an_der_Gro%C3%9Fen_Malche_in_Berlin.jpg/500px-Gartenbauml%C3%A4ufer_an_der_Gro%C3%9Fen_Malche_in_Berlin.jpg"
+    }
+  ],
+  "sounds": {
+    "sound": {
+      "name": "",
+      "source": ""
+    }
+  }
+}
