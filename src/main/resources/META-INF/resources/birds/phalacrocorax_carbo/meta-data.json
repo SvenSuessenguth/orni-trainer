@@ -1,0 +1,38 @@
+{
+  "category": "bronze",
+  "ordnung": "Suliformes",
+  "familie": "Phalacrocoracidae",
+  "art": "Phalacrocorax carbo",
+  "images": [
+    {
+      "name": "Phalacrocorax_carbo_Vic.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Phalacrocorax_carbo_Vic.jpg/500px-Phalacrocorax_carbo_Vic.jpg"
+    },
+    {
+      "name": "330px-Phalacrocorax_carbo_SH_0541_retusche.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Phalacrocorax_carbo_SH_0541_retusche.jpg/330px-Phalacrocorax_carbo_SH_0541_retusche.jpg"
+    },
+    {
+      "name": "Kormoran_am_Nordseestrand_bei_Nebel,_Amrum.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Kormoran_am_Nordseestrand_bei_Nebel%2C_Amrum.jpg/500px-Kormoran_am_Nordseestrand_bei_Nebel%2C_Amrum.jpg"
+    },
+    {
+      "name": "Great_cormorant_at_Tennōji_Park_in_Osaka,_June_2017_-_840.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Great_cormorant_at_Tenn%C5%8Dji_Park_in_Osaka%2C_June_2017_-_840.jpg/500px-Great_cormorant_at_Tenn%C5%8Dji_Park_in_Osaka%2C_June_2017_-_840.jpg"
+    },
+    {
+      "name": "Great_Cormorant_0010_-_swallowing_eel_-_East_Potomac_Park_-_2013-08-25.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Great_Cormorant_0010_-_swallowing_eel_-_East_Potomac_Park_-_2013-08-25.jpg/500px-Great_Cormorant_0010_-_swallowing_eel_-_East_Potomac_Park_-_2013-08-25.jpg"
+    },
+    {
+      "name": "Kormoran_030-2.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Kormoran_030-2.jpg/500px-Kormoran_030-2.jpg"
+    }
+  ],
+  "sounds": {
+    "sound": {
+      "name": "",
+      "source": ""
+    }
+  }
+}
