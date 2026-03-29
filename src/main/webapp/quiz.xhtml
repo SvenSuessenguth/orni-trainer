@@ -29,7 +29,8 @@
                            itemLabel="#{i18nText['orc.cc.orni.trainer.Hint.' += s.name()]}"/>
         </h:selectOneMenu>
         <hr/>
-        <h:graphicImage library="birds" name="#{quizUiState.birdImage}"
+        <h:graphicImage library="birds" name="#{quizUiState.imageName}"
+                        alt="#{quizUiState.imageName}"
                         rendered="#{quizUiState.imageHint}"
                         style="width: 500px; height: auto"/>
         <h:outputText value="#{quizUiState.bird.species}"
