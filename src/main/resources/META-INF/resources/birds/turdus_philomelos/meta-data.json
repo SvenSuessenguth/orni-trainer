@@ -1,0 +1,26 @@
+{
+  "category": "BRONZE",
+  "ordnung": "Passeriformes",
+  "familie": "Turdidae",
+  "species": "Turdus philomelos",
+  "images": [
+    {
+      "name": "Song_Thrush_Turdus_philomelos.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Song_Thrush_Turdus_philomelos.jpg/500px-Song_Thrush_Turdus_philomelos.jpg"
+    },
+    {
+      "name": "Song_Thrush.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Song_Thrush.jpg/500px-Song_Thrush.jpg"
+    },
+    {
+      "name": "500px-Song_Thrush_(Turdus_philomelos)_in_flight.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Song_Thrush_%28Turdus_philomelos%29_in_flight.jpg/500px-Song_Thrush_%28Turdus_philomelos%29_in_flight.jpg"
+    }
+  ],
+  "sounds": [
+    {
+      "name": "Turdus_philomelos.ogg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/4/46/Turdus_philomelos.ogg"
+    }
+  ]
+}
