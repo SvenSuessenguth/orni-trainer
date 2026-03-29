@@ -31,6 +31,7 @@ public class QuizUiService {
     }
 
     public String showSolution() {
+        quizUiState.setShowResolution(true);
         return null;
     }
 }

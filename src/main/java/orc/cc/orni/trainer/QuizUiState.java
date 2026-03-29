@@ -26,6 +26,7 @@ public class QuizUiState implements Serializable {
     private Bird bird;
     private String imageName;
     private String soundName;
+    private boolean showResolution = false;
 
     private List<Bird> birdsAnsweredNotCorrect = new ArrayList<>();
 
@@ -64,6 +65,8 @@ public class QuizUiState implements Serializable {
         var randomSoundName = bird.getImages().get(randomSoundNumber).name();
         log.info("randomSoundName: " + path.toLowerCase() + "/" + randomSoundName);
         soundName = path.toLowerCase() + "/" + randomSoundName;
+
+        showResolution = false;
     }
 
     public boolean isImageHint() {

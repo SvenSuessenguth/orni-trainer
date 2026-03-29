@@ -13,32 +13,70 @@
     <ui:define name="title">#{i18nText.ornitrain}</ui:define>
 
     <ui:define name="css">
-        <h:outputStylesheet name="css/layouts/welcome.css"/>
+        <h:outputStylesheet name="css/layouts/quiz.css"/>
     </ui:define>
 
     <ui:define name="main">
         <h1>#{i18nText.welcome}</h1>
-        <h:outputLabel for="category" value="#{i18nText.category}"/>
-        <h:selectOneMenu id="category" value="#{quizUiState.category}">
-            <f:selectItems value="#{quizUiService.allCategories}" var="s" itemValue="#{s}"
-                           itemLabel="#{i18nText['orc.cc.orni.trainer.Category.' += s.name()]}"/>
-        </h:selectOneMenu>
-        <h:outputLabel for="hint" value="#{i18nText.hint}"/>
-        <h:selectOneMenu id="hint" value="#{quizUiState.hint}">
-            <f:selectItems value="#{quizUiService.allHints}" var="s" itemValue="#{s}"
-                           itemLabel="#{i18nText['orc.cc.orni.trainer.Hint.' += s.name()]}"/>
-        </h:selectOneMenu>
-        <hr/>
-        <h:graphicImage library="birds" name="#{quizUiState.imageName}"
-                        alt="#{quizUiState.imageName}"
-                        rendered="#{quizUiState.imageHint}"
-                        style="width: 500px; height: auto"/>
-        <h:outputText value="#{quizUiState.bird.species}"
-                      rendered="#{quizUiState.speciesHint}"/>
-        <hr/>
-        <h:commandButton value="#{i18nText.solution}" action="#{quizUiService.showSolution()}"/>
-        <h:commandButton value="#{i18nText.correct}" action="#{quizUiService.correct()}"/>
-        <h:commandButton value="#{i18nText.incorrect}" action="#{quizUiService.incorrect()}"/>
+
+        <div class="parent">
+            <div class="div1">
+                <!--
+                 | settings
+                 +-->
+                <h:outputLabel for="category" value="#{i18nText.category}"/>
+                <h:selectOneMenu id="category" value="#{quizUiState.category}">
+                    <f:selectItems value="#{quizUiService.allCategories}" var="s" itemValue="#{s}"
+                                   itemLabel="#{i18nText['orc.cc.orni.trainer.Category.' += s.name()]}"/>
+                </h:selectOneMenu>
+                <h:outputLabel for="hint" value="#{i18nText.hint}"/>
+                <h:selectOneMenu id="hint" value="#{quizUiState.hint}">
+                    <f:selectItems value="#{quizUiService.allHints}" var="s" itemValue="#{s}"
+                                   itemLabel="#{i18nText['orc.cc.orni.trainer.Hint.' += s.name()]}"/>
+                </h:selectOneMenu>
+            </div>
+            <div class="div2">
+                <!--
+                 | hint
+                 +-->
+                <h:graphicImage library="birds" name="#{quizUiState.imageName}"
+                                rendered="#{quizUiState.imageHint}"
+                                alt="#{quizUiState.imageName}"
+                                style="width: 500px; height: auto"/>
+                <h:outputText value="#{quizUiState.bird.species}"
+                              rendered="#{quizUiState.speciesHint}"/>
+            </div>
+            <div class="div3">
+                <!--
+                 | solution
+                 +-->
+                <table>
+                    <tr>
+                        <td><h:outputLabel for="ordnung" value="Ordnung"/></td>
+                        <td><h:outputText id="ordnung" value="#{quizUiState.bird.ordnung}"
+                                          rendered="#{quizUiState.showResolution}"/></td>
+                    </tr>
+                    <tr>
+                        <td><h:outputLabel for="familie" value="Familie"/></td>
+                        <td><h:outputText id="familie" value="#{quizUiState.bird.familie}"
+                                          rendered="#{quizUiState.showResolution}"/></td>
+                    </tr>
+                    <tr>
+                        <td><h:outputLabel for="species" value="Art"/></td>
+                        <td><h:outputText id="species" value="#{quizUiState.bird.species}"
+                                          rendered="#{quizUiState.showResolution}"/></td>
+                    </tr>
+                </table>
+            </div>
+            <div class="div4">
+                <!--
+                 | action
+                 +-->
+                <h:commandButton value="#{i18nText.solution}" action="#{quizUiService.showSolution()}"/>
+                <h:commandButton value="#{i18nText.correct}" action="#{quizUiService.correct()}"/>
+                <h:commandButton value="#{i18nText.incorrect}" action="#{quizUiService.incorrect()}"/>
+            </div>
+        </div>
     </ui:define>
 </ui:composition>
 </html>
