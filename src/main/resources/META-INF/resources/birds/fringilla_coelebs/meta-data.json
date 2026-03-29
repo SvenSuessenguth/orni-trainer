@@ -1,0 +1,34 @@
+{
+  "category": "BRONZE",
+  "ordnung": "Passeriformes",
+  "familie": "Fringillidae",
+  "species": "Fringilla coelebs",
+  "images": [
+    {
+      "name": "500px-Fringilla_coelebs_(chaffinch),_male.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Fringilla_coelebs_%28chaffinch%29%2C_male.jpg/500px-Fringilla_coelebs_%28chaffinch%29%2C_male.jpg"
+    },
+    {
+      "name": "Buchfink.Luther-Friedhof.1.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Buchfink.Luther-Friedhof.1.jpg/330px-Buchfink.Luther-Friedhof.1.jpg"
+    },
+    {
+      "name": "Buchfink.Luther-Friedhof.4.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Buchfink.Luther-Friedhof.4.jpg/500px-Buchfink.Luther-Friedhof.4.jpg"
+    },
+    {
+      "name": "Buchfink.Luther-Friedhof.8.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Buchfink.Luther-Friedhof.8.jpg/330px-Buchfink.Luther-Friedhof.8.jpg"
+    },
+    {
+      "name": "Chaffinch_(Fringilla_coelebs)_(38114943341).jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Chaffinch_%28Fringilla_coelebs%29_%2838114943341%29.jpg/500px-Chaffinch_%28Fringilla_coelebs%29_%2838114943341%29.jpg"
+    }
+  ],
+  "sounds": [
+    {
+      "name": "Buchfinkenruf.ogg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Buchfinkenruf.ogg"
+    }
+  ]
+}
