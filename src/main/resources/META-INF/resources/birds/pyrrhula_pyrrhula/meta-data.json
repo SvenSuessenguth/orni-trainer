@@ -1,0 +1,26 @@
+{
+  "category": "BRONZE",
+  "ordnung": "Passeriformes",
+  "familie": "Fringillidae",
+  "species": "Pyrrhula pyrrhula",
+  "images": [
+    {
+      "name": "Bullfinch_male.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Bullfinch_male.jpg/500px-Bullfinch_male.jpg"
+    },
+    {
+      "name": "Pyrrhula_pyrrhula_female_2.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Pyrrhula_pyrrhula_female_2.jpg/500px-Pyrrhula_pyrrhula_female_2.jpg"
+    },
+    {
+      "name": "Pyrrhula_pyrrhula_female_(Yaroslav_Murashkin).jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Pyrrhula_pyrrhula_female_%28Yaroslav_Murashkin%29.jpg/330px-Pyrrhula_pyrrhula_female_%28Yaroslav_Murashkin%29.jpg"
+    }
+  ],
+  "sounds": [
+    {
+      "name": "Bullfinch_(Pyrrhula_pyrrhula)_(W1CDR0001509_BD14).ogg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/8/80/Bullfinch_%28Pyrrhula_pyrrhula%29_%28W1CDR0001509_BD14%29.ogg"
+    }
+  ]
+}
