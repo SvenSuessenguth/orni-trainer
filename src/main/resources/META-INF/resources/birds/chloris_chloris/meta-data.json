@@ -1,0 +1,30 @@
+{
+  "category": "BRONZE",
+  "ordnung": "Passeriformes",
+  "familie": "Fringillidae",
+  "species": "Chloris chloris",
+  "images": [
+    {
+      "name": "Greenfinch.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Greenfinch.jpg/500px-Greenfinch.jpg"
+    },
+    {
+      "name": "Greenfinch_Carduelis_chloris.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Greenfinch_Carduelis_chloris.jpg/500px-Greenfinch_Carduelis_chloris.jpg"
+    },
+    {
+      "name": "European_Greenfinch_male_female.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/European_Greenfinch_male_female.jpg/500px-European_Greenfinch_male_female.jpg"
+    }
+  ],
+  "sounds": [
+    {
+      "name": "Gruenfink_Gesang.ogg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/a/af/Gruenfink_Gesang.ogg"
+    },
+    {
+      "name": "Carduelis_chloris.ogg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Carduelis_chloris.ogg"
+    }
+  ]
+}
