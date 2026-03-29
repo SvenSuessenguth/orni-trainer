@@ -23,8 +23,16 @@
   ],
   "sounds": [
     {
-      "name": "",
-      "source": ""
+      "name": "Waldkauz.ogg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/9/91/Waldkauz.ogg"
+    },
+    {
+      "name": "Tawny_Owl_(Strix_aluco)_(W1CDR0001519_BD8).ogg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/9/91/Tawny_Owl_%28Strix_aluco%29_%28W1CDR0001519_BD8%29.ogg"
+    },
+    {
+      "name": "Tawny_Owl_(Strix_aluco)_(W1CDR0001427_BD9).ogg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Tawny_Owl_%28Strix_aluco%29_%28W1CDR0001427_BD9%29.ogg"
     }
   ]
 }
