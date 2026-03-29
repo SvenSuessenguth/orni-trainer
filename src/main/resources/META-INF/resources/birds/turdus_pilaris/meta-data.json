@@ -1,0 +1,34 @@
+{
+  "category": "BRONZE",
+  "ordnung": "Passeriformes",
+  "familie": "Turdidae",
+  "species": "Turdus pilaris",
+  "images": [
+    {
+      "name": "Turdus_pilaris_no.JPG",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Turdus_pilaris_no.JPG/500px-Turdus_pilaris_no.JPG"
+    },
+    {
+      "name": "Altvogel_füttert_Jungvogel.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Altvogel_f%C3%BCttert_Jungvogel.jpg/500px-Altvogel_f%C3%BCttert_Jungvogel.jpg"
+    },
+    {
+      "name": "Kwiczoł_z_dżdżownicami.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kwiczo%C5%82_z_d%C5%BCd%C5%BCownicami.jpg/500px-Kwiczo%C5%82_z_d%C5%BCd%C5%BCownicami.jpg"
+    },
+    {
+      "name": "Wacholderdrossel_im_Apfelbaum.JPG",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Wacholderdrossel_im_Apfelbaum.JPG/500px-Wacholderdrossel_im_Apfelbaum.JPG"
+    },
+    {
+      "name": "Fieldfare_4.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Fieldfare_4.jpg/500px-Fieldfare_4.jpg"
+    }
+  ],
+  "sounds": [
+    {
+      "name": "",
+      "source": ""
+    }
+  ]
+}
