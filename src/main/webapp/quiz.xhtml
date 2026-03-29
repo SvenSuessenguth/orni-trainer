@@ -18,7 +18,6 @@
 
     <ui:define name="main">
         <h1>#{i18nText.welcome}</h1>
-
         <div class="parent">
             <div class="div1">
                 <!--
@@ -63,8 +62,10 @@
                     </tr>
                     <tr>
                         <td><h:outputLabel for="species" value="Art"/></td>
-                        <td><h:outputText id="species" value="#{quizUiState.bird.species}"
-                                          rendered="#{quizUiState.showResolution}"/></td>
+                        <td><h:outputText id="species"
+                                          value="#{quizUiState.bird.species} (#{i18nSpecies[quizUiState.bird.species]})"
+                                          rendered="#{quizUiState.showResolution}"/>
+                        </td>
                     </tr>
                 </table>
             </div>

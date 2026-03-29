@@ -15,7 +15,7 @@
       <var>i18nText</var>
     </resource-bundle>
     <resource-bundle>
-      <base-name>org.cc.orni.ornitrain.text</base-name>
+      <base-name>org.cc.orni.ornitrain.species</base-name>
       <var>i18nSpecies</var>
     </resource-bundle>
   </application>
@@ -23,7 +23,7 @@
   <navigation-rule>
     <from-view-id>*</from-view-id>
     <navigation-case>
-      <from-outcome>weclome</from-outcome>
+      <from-outcome>quiz</from-outcome>
       <to-view-id>/quiz.xhtml</to-view-id>
     </navigation-case>
   </navigation-rule>
