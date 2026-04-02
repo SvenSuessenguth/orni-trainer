@@ -1,0 +1,48 @@
+{
+  "category": "BRONZE",
+  "ordnung": "Passeriformes",
+  "familie": "Fringillidae",
+  "species": "Coccothraustes coccothraustes",
+  "images": [
+    {
+      "name": "16,5_bis_18_cm_ist_die_Körperlänge_des_Kernbeißers._07.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/16%2C5_bis_18_cm_ist_die_K%C3%B6rperl%C3%A4nge_des_Kernbei%C3%9Fers._07.jpg/500px-16%2C5_bis_18_cm_ist_die_K%C3%B6rperl%C3%A4nge_des_Kernbei%C3%9Fers._07.jpg"
+    },
+    {
+      "name": "C_coccothraustes_naumann.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/C_coccothraustes_naumann.jpg/500px-C_coccothraustes_naumann.jpg"
+    },
+    {
+      "name": "16,5_bis_18_cm_ist_die_Körperlänge_des_Kernbeißers._01.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/16%2C5_bis_18_cm_ist_die_K%C3%B6rperl%C3%A4nge_des_Kernbei%C3%9Fers._01.jpg/500px-16%2C5_bis_18_cm_ist_die_K%C3%B6rperl%C3%A4nge_des_Kernbei%C3%9Fers._01.jpg"
+    },
+
+    {
+      "name": "Kernbeißer_Schnabel.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Kernbei%C3%9Fer_Schnabel.jpg/500px-Kernbei%C3%9Fer_Schnabel.jpg"
+    },
+    {
+      "name": "16,5_bis_18_cm_ist_die_Körperlänge_des_Kernbeißers._02.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/16%2C5_bis_18_cm_ist_die_K%C3%B6rperl%C3%A4nge_des_Kernbei%C3%9Fers._02.jpg/330px-16%2C5_bis_18_cm_ist_die_K%C3%B6rperl%C3%A4nge_des_Kernbei%C3%9Fers._02.jpg"
+    },
+    {
+      "name": "Animated_coccothraustes_coccothraustes.gif",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Animated_coccothraustes_coccothraustes.gif/500px-Animated_coccothraustes_coccothraustes.gif"
+    },
+
+    {
+      "name": "Grubodziob_c_coccothraustes4.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Grubodziob_c_coccothraustes4.jpg/500px-Grubodziob_c_coccothraustes4.jpg"
+    },
+    {
+      "name": "Hawfinch_-_Montevecchia_-_ItalyFJ0A9662_(40510721522).jpg",
+      "source": "https://commons.wikimedia.org/wiki/Category:Coccothraustes_coccothraustes?uselang=de#/media/File:Hawfinch_-_Montevecchia_-_ItalyFJ0A9662_(40510721522).jpg"
+    }
+  ],
+  "sounds": [
+    {
+      "name": "Coccothraustes_coccothraustes_-_Hawfinch_XC107638.mp3",
+      "source": "https://commons.wikimedia.org/wiki/File:Coccothraustes_coccothraustes_-_Hawfinch_XC107638.mp3?uselang=de"
+    }
+  ]
+}
