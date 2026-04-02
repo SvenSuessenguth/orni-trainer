@@ -1,0 +1,34 @@
+{
+  "category": "BRONZE",
+  "ordnung": "Passeriformes",
+  "familie": "Sylviidae",
+  "species": "Sylvia atricapilla",
+  "images": [
+    {
+      "name": "2017.04.09.-18-Hirschberg_an_der_Bergstraße--Moenchsgrasmuecke-Maennchen.jpg",
+      "source": "https://commons.wikimedia.org/wiki/Sylvia_atricapilla?uselang=de#/media/File:2017.04.09.-18-Hirschberg_an_der_Bergstra%C3%9Fe--Moenchsgrasmuecke-Maennchen.jpg"
+    },
+    {
+      "name": "Sylvia_atricapilla_male_2.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Sylvia_atricapilla_male_2.jpg/330px-Sylvia_atricapilla_male_2.jpg"
+    },
+    {
+      "name": "Sylvia_atricapilla_no.JPG",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Sylvia_atricapilla_no.JPG/250px-Sylvia_atricapilla_no.JPG"
+    },
+    {
+      "name": "Sylvia_atricapilla_heineken.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Sylvia_atricapilla_heineken.jpg/250px-Sylvia_atricapilla_heineken.jpg"
+    },
+    {
+      "name": "120px-Sylvia_atricapilla_-_Burgenland_4.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Sylvia_atricapilla_-_Burgenland_4.jpg/120px-Sylvia_atricapilla_-_Burgenland_4.jpg"
+    }
+  ],
+  "sounds": [
+    {
+      "name": "Sylvia_atricapilla.ogg",
+      "source": "https://de.wikipedia.org/wiki/Datei:Sylvia_atricapilla.ogg"
+    }
+  ]
+}
