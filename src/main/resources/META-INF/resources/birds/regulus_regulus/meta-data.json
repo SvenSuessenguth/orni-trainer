@@ -1,0 +1,30 @@
+{
+  "category": "BRONZE",
+  "ordnung": "Passeriformes",
+  "familie": "Regulidae",
+  "species": "Regulus regulus",
+  "images": [
+    {
+      "name": "Goldcrest_1.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Goldcrest_1.jpg/330px-Goldcrest_1.jpg"
+    },
+    {
+      "name": "Wintergoldhähnchen_.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Wintergoldh%C3%A4hnchen_.jpg/250px-Wintergoldh%C3%A4hnchen_.jpg"
+    },
+    {
+      "name": "Regulus_regulus_(Spiekeroog).jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Regulus_regulus_%28Spiekeroog%29.jpg/250px-Regulus_regulus_%28Spiekeroog%29.jpg"
+    },
+    {
+      "name": "Regulus_regulus_-Vendee,_France-8.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Regulus_regulus_-Vendee%2C_France-8.jpg/250px-Regulus_regulus_-Vendee%2C_France-8.jpg"
+    },
+    {
+      "name": "CRW_2087-01_s_e.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/CRW_2087-01_s_e.jpg/250px-CRW_2087-01_s_e.jpg"
+    }
+  ],
+  "sounds": [
+  ]
+}
