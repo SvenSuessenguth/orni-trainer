@@ -1,0 +1,26 @@
+{
+  "category": "BRONZE",
+  "ordnung": "Passeriformes",
+  "familie": "Sylviidae",
+  "species": "Curruca communis",
+  "images": [
+    {
+      "name": "Common_Whitethroat_from_the_Crossley_ID_Guide_Britain_and_Ireland.jpg",
+      "source": "https://commons.wikimedia.org/wiki/Curruca_communis?uselang=de#/media/File:Common_Whitethroat_from_the_Crossley_ID_Guide_Britain_and_Ireland.jpg"
+    },
+    {
+      "name": "Common_Whitethroat.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Common_Whitethroat.jpg/330px-Common_Whitethroat.jpg"
+    },
+    {
+      "name": "Sylviacommunis_9844.JPG",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Sylviacommunis_9844.JPG/120px-Sylviacommunis_9844.JPG"
+    }
+  ],
+  "sounds": [
+    {
+      "name": "Common_Whitethroat_(Sylvia_communis)_(W1CDR0001503_BD6).ogg",
+      "source": "https://de.wikipedia.org/wiki/Datei:Common_Whitethroat_(Sylvia_communis)_(W1CDR0001503_BD6).ogg"
+    }
+  ]
+}
