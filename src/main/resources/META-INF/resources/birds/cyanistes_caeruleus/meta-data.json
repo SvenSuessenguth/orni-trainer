@@ -1,0 +1,62 @@
+{
+  "category": "BRONZE",
+  "ordnung": "Passeriformes",
+  "familie": "Paridae",
+  "species": "Cyanistes caeruleus",
+  "images": [
+    {
+      "name": "Eurasian_blue_tit_Lancashire.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Eurasian_blue_tit_Lancashire.jpg/330px-Eurasian_blue_tit_Lancashire.jpg"
+    },
+    {
+      "name": "Parus_caeruleus01.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Parus_caeruleus01.jpg/250px-Parus_caeruleus01.jpg"
+    },
+    {
+      "name": "CyanistesCaeruleusWithForage.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/CyanistesCaeruleusWithForage.jpg/250px-CyanistesCaeruleusWithForage.jpg"
+    },
+    {
+      "name": "2015-04-13-Blaumeise3.JPG",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/2015-04-13-Blaumeise3.JPG/250px-2015-04-13-Blaumeise3.JPG"
+    },
+    {
+      "name": "BlaumeiseBayern.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/BlaumeiseBayern.jpg/250px-BlaumeiseBayern.jpg"
+    },
+    {
+      "name": "250px-Parus_caeruleus_1_Luc_Viatour.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Parus_caeruleus_1_Luc_Viatour.jpg/250px-Parus_caeruleus_1_Luc_Viatour.jpg"
+    },
+    {
+      "name": "Parus_caeruleus1.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Parus_caeruleus1.jpg/250px-Parus_caeruleus1.jpg"
+    },
+    {
+      "name": "Parus_caeruleus_feeding_V1.JPG",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Parus_caeruleus_feeding_V1.JPG/250px-Parus_caeruleus_feeding_V1.JPG"
+    },
+    {
+      "name": "P2100417_-_Version_3.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/P2100417_-_Version_3.jpg/250px-P2100417_-_Version_3.jpg"
+    },
+    {
+      "name": "Obenbruetn.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Obenbruetn.jpg/250px-Obenbruetn.jpg"
+    },
+    {
+      "name": "ParusCaeruleusBathing.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/ParusCaeruleusBathing.jpg/330px-ParusCaeruleusBathing.jpg"
+    },
+    {
+      "name": "BlueTitThreatening.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/BlueTitThreatening.jpg/330px-BlueTitThreatening.jpg"
+    }
+  ],
+  "sounds": [
+    {
+      "name": "Cyanistes_caeruleus_-_Eurasian_Blue_Tit_XC125793.ogg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Cyanistes_caeruleus_-_Eurasian_Blue_Tit_XC125793.ogg"
+    }
+  ]
+}
