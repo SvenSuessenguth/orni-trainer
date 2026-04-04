@@ -1,0 +1,38 @@
+{
+  "category": "BRONZE",
+  "ordnung": "Passeriformes",
+  "familie": "Corvidae",
+  "species": "Corvus frugilegus",
+  "images": [
+    {
+      "name": "Rook-Corvus_frugilegus.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Rook-Corvus_frugilegus.jpg/330px-Rook-Corvus_frugilegus.jpg"
+    },
+    {
+      "name": "250px-Corvus_frugilegus1.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Corvus_frugilegus1.jpg/250px-Corvus_frugilegus1.jpg"
+    },
+    {
+      "name": "Rook_4_(6354273333).jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Rook_4_%286354273333%29.jpg/250px-Rook_4_%286354273333%29.jpg"
+    },
+    {
+      "name": "Corvus_2007-11-1.gif",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Corvus_2007-11-1.gif/120px-Corvus_2007-11-1.gif"
+    },
+    {
+      "name": "Corvus_frugilegus_2.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Corvus_frugilegus_2.jpg/250px-Corvus_frugilegus_2.jpg"
+    },
+    {
+      "name": "Saatkrähe_3.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Saatkr%C3%A4he_3.jpg/250px-Saatkr%C3%A4he_3.jpg"
+    }
+  ],
+  "sounds": [
+    {
+      "name": "",
+      "source": ""
+    }
+  ]
+}
