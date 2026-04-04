@@ -1,0 +1,38 @@
+{
+  "category": "BRONZE",
+  "ordnung": "Passeriformes",
+  "familie": "Phylloscopidae",
+  "species": "Phylloscopus collybita",
+  "images": [
+    {
+      "name": "Chiffchaff_-_Phylloscopus_collybita.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Chiffchaff_-_Phylloscopus_collybita.jpg/330px-Chiffchaff_-_Phylloscopus_collybita.jpg"
+    },
+    {
+      "name": "Phylloscopus_collybita_090907.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Phylloscopus_collybita_090907.jpg/250px-Phylloscopus_collybita_090907.jpg"
+    },
+    {
+      "name": "2017.05.17.-01-Kirschgartshaeuser_Schlaege_Mannheim--Zilpzalp.jpg",
+      "source": "https://commons.wikimedia.org/wiki/Phylloscopus_collybita?uselang=de#/media/File:2017.05.17.-01-Kirschgartshaeuser_Schlaege_Mannheim--Zilpzalp.jpg"
+    },
+    {
+      "name": "Chiffchaff_(Phylloscopus_collybita)_(C).jpg",
+      "source": "https://commons.wikimedia.org/wiki/Phylloscopus_collybita?uselang=de#/media/File:Chiffchaff_(Phylloscopus_collybita)_(C).jpg"
+    },
+    {
+      "name": "Common_Chiffchaff-_Bhopal_I_IMG_0605.jpg",
+      "source": "https://commons.wikimedia.org/wiki/Phylloscopus_collybita?uselang=de#/media/File:Common_Chiffchaff-_Bhopal_I_IMG_0605.jpg"
+    }
+  ],
+  "sounds": [
+    {
+      "name": "Phylloscopus_collybita_7029.ogg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/2/25/Phylloscopus_collybita_7029.ogg"
+    },
+    {
+      "name": "",
+      "source": ""
+    }
+  ]
+}
