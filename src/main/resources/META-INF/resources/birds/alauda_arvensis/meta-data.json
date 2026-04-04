@@ -1,0 +1,30 @@
+{
+  "category": "BRONZE",
+  "ordnung": "Passeriformes",
+  "familie": "Alaudidae",
+  "species": "Alauda arvensis",
+  "images": [
+    {
+      "name": "330px-Alauda_arvensis_2.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Alauda_arvensis_2.jpg/330px-Alauda_arvensis_2.jpg"
+    },
+    {
+      "name": "Feldlerche_(Alauda_arvensis)_auf_Norderney_-_Nationalpark_Niedersächsisches_Wattenmeer-2.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Feldlerche_%28Alauda_arvensis%29_auf_Norderney_-_Nationalpark_Nieders%C3%A4chsisches_Wattenmeer-2.jpg/250px-Feldlerche_%28Alauda_arvensis%29_auf_Norderney_-_Nationalpark_Nieders%C3%A4chsisches_Wattenmeer-2.jpg"
+    },
+    {
+      "name": "Eurasian_Lark_-_Carso_-_Italy_S4E6227_(16946139562).jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Eurasian_Lark_-_Carso_-_Italy_S4E6227_%2816946139562%29.jpg/250px-Eurasian_Lark_-_Carso_-_Italy_S4E6227_%2816946139562%29.jpg"
+    },
+    {
+      "name": "Skylark_2,_Lake_District,_England_-_June_2009.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Skylark_2%2C_Lake_District%2C_England_-_June_2009.jpg/250px-Skylark_2%2C_Lake_District%2C_England_-_June_2009.jpg"
+    }
+  ],
+  "sounds": [
+    {
+      "name": "",
+      "source": ""
+    }
+  ]
+}
