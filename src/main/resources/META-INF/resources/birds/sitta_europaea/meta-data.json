@@ -1,0 +1,42 @@
+{
+  "category": "BRONZE",
+  "ordnung": "",
+  "familie": "",
+  "species": "",
+  "images": [
+    {
+      "name": "Kleiber_vertikal_klassisch_nah.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Kleiber_vertikal_klassisch_nah.jpg/330px-Kleiber_vertikal_klassisch_nah.jpg"
+    },
+    {
+      "name": "Eingang_zur_Bruthöhle_des_Kleibers.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Eingang_zur_Bruth%C3%B6hle_des_Kleibers.jpg/250px-Eingang_zur_Bruth%C3%B6hle_des_Kleibers.jpg"
+    },
+    {
+      "name": "Kleiber_02.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Kleiber_02.jpg/250px-Kleiber_02.jpg"
+    },
+    {
+      "name": "Kleiber_Sitta_europaea.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Kleiber_Sitta_europaea.jpg/250px-Kleiber_Sitta_europaea.jpg"
+    },
+    {
+      "name": "Kleiber_-_Sitta_europaea.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Kleiber_-_Sitta_europaea.jpg/250px-Kleiber_-_Sitta_europaea.jpg"
+    },
+    {
+      "name": "Kleiber_Flug.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Kleiber_Flug.jpg/250px-Kleiber_Flug.jpg"
+    }
+  ],
+  "sounds": [
+    {
+      "name": "Eurasian_Nuthatch_(Sitta_europaea)_(W1CDR0001532_BD13).ogg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Eurasian_Nuthatch_%28Sitta_europaea%29_%28W1CDR0001532_BD13%29.ogg"
+    },
+    {
+      "name": "Eurasian_Nuthatch_(Sitta_europaea)_(W1CDR0001520_BD24).ogg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/4/45/Eurasian_Nuthatch_%28Sitta_europaea%29_%28W1CDR0001520_BD24%29.ogg"
+    }
+  ]
+}
