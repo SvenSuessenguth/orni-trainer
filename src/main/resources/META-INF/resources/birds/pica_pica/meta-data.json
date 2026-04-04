@@ -1,0 +1,26 @@
+{
+  "category": "BRONZE",
+  "ordnung": "Passeriformes",
+  "familie": "Corvidae",
+  "species": "Pica pica",
+  "images": [
+    {
+      "name": "01-Magpie.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/01-Magpie.jpg/330px-01-Magpie.jpg"
+    },
+    {
+      "name": "Elster_wikipedia2.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Elster_wikipedia2.jpg/250px-Elster_wikipedia2.jpg"
+    }
+  ],
+  "sounds": [
+    {
+      "name": "Pica_pica.ogg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Pica_pica.ogg"
+    },
+    {
+      "name": "Elsterrevierschrei.ogg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Elsterrevierschrei.ogg"
+    }
+  ]
+}
