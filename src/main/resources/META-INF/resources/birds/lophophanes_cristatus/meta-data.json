@@ -1,0 +1,38 @@
+{
+  "category": "BRONZE",
+  "ordnung": "Passeriformes",
+  "familie": "Paridae",
+  "species": "Lophophanes cristatus",
+  "images": [
+    {
+      "name": "Crested_tit_(53418866239).jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Crested_tit_%2853418866239%29.jpg/330px-Crested_tit_%2853418866239%29.jpg"
+    },
+    {
+      "name": "Lophophanes_cristatus_Luc_Viatour_1.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Lophophanes_cristatus_Luc_Viatour_1.jpg/120px-Lophophanes_cristatus_Luc_Viatour_1.jpg"
+    },
+    {
+      "name": "Lophophanes_cristatus.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Lophophanes_cristatus.jpg/120px-Lophophanes_cristatus.jpg"
+    },
+    {
+      "name": "Messange_huppée_02.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Messange_hupp%C3%A9e_02.jpg/120px-Messange_hupp%C3%A9e_02.jpg"
+    },
+    {
+      "name": "Haubenmeise.JPG",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Haubenmeise.JPG/120px-Haubenmeise.JPG"
+    },
+    {
+      "name": "091A1925.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/091A1925.jpg/960px-091A1925.jpg?_=20241030171149"
+    }
+  ],
+  "sounds": [
+    {
+      "name": "Crested_Tit_(Lophophanes_cristatus)_(W1CDR0001462_BD1).ogg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Crested_Tit_%28Lophophanes_cristatus%29_%28W1CDR0001462_BD1%29.ogg"
+    }
+  ]
+}
