@@ -1,0 +1,26 @@
+{
+  "category": "BRONZE",
+  "ordnung": "Passeriformes",
+  "familie": "Corvidae",
+  "species": "Corvus corone",
+  "images": [
+    {
+      "name": "Carrion_crow_2022_04_05_05_01.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Carrion_crow_2022_04_05_05_01.jpg/330px-Carrion_crow_2022_04_05_05_01.jpg"
+    },
+    {
+      "name": "Corvus_corone_-near_Canford_Cliffs,_Poole,_England-8.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Corvus_corone_-near_Canford_Cliffs%2C_Poole%2C_England-8.jpg/250px-Corvus_corone_-near_Canford_Cliffs%2C_Poole%2C_England-8.jpg"
+    },
+    {
+      "name": "250px-Annecy_-_Corvus_Corone_-_20111230_-_02.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Annecy_-_Corvus_Corone_-_20111230_-_02.JPG/250px-Annecy_-_Corvus_Corone_-_20111230_-_02.JPG"
+    }
+  ],
+  "sounds": [
+    {
+      "name": "Corvus_corone_subsong.ogg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Corvus_corone_subsong.ogg"
+    }
+  ]
+}
