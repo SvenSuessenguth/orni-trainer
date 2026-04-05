@@ -1,0 +1,38 @@
+{
+  "category": "BRONZE",
+  "ordnung": "Passeriformes",
+  "familie": "Paridae",
+  "species": "Poecile palustris",
+  "images": [
+    {
+      "name": "Sumpfmeise1.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Sumpfmeise1.jpg/330px-Sumpfmeise1.jpg"
+    },
+    {
+      "name": "Parus_palustris01.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Parus_palustris01.jpg/250px-Parus_palustris01.jpg"
+    },
+    {
+      "name": "250px-Sumpfmeise_m._Beute_EO5P0650-2.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Sumpfmeise_m._Beute_EO5P0650-2.jpg/250px-Sumpfmeise_m._Beute_EO5P0650-2.jpg"
+    },
+    {
+      "name": "Poecile_palustris_5_Luc_Viatour.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Poecile_palustris_5_Luc_Viatour.jpg/120px-Poecile_palustris_5_Luc_Viatour.jpg"
+    },
+    {
+      "name": "Parus_palustris.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Parus_palustris.jpg/120px-Parus_palustris.jpg"
+    },
+    {
+      "name": "Poecile_palustris_I.jpg",
+      "source": "https://commons.wikimedia.org/wiki/Poecile_palustris?uselang=de#/media/File:Poecile_palustris_I.jpg"
+    }
+  ],
+  "sounds": [
+    {
+      "name": "Poecile_palustris.ogg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/7/70/Poecile_palustris.ogg"
+    }
+  ]
+}
