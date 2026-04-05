@@ -1,0 +1,50 @@
+{
+  "category": "BRONZE",
+  "ordnung": "Passeriformes",
+  "familie": "Paridae",
+  "species": "Parus major",
+  "images": [
+    {
+      "name": "Mesange_charbonnière_bain_de_soleil.JPG",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Mesange_charbonni%C3%A8re_bain_de_soleil.JPG/250px-Mesange_charbonni%C3%A8re_bain_de_soleil.JPG"
+    },
+    {
+      "name": "Great_Tit_Lodz(Poland)(js)03.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Great_Tit_Lodz%28Poland%29%28js%2903.jpg/250px-Great_Tit_Lodz%28Poland%29%28js%2903.jpg"
+    },
+    {
+      "name": "Great_Tit_(6994063411).jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Great_Tit_%286994063411%29.jpg/250px-Great_Tit_%286994063411%29.jpg"
+    },
+    {
+      "name": "Great_Tit_(6847922138).jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Great_Tit_%286847922138%29.jpg/250px-Great_Tit_%286847922138%29.jpg"
+    },
+    {
+      "name": "Great_tit_feeding_chick_retuschiert.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Great_tit_feeding_chick_retuschiert.jpg/250px-Great_tit_feeding_chick_retuschiert.jpg"
+    },
+    {
+      "name": "Kohlmeise_Entsorgung.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Kohlmeise_Entsorgung.jpg/250px-Kohlmeise_Entsorgung.jpg"
+    },
+    {
+      "name": "Parus_major_2a.JPG",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Parus_major_2a.JPG/250px-Parus_major_2a.JPG"
+    },
+    {
+      "name": "Tihane.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Tihane.jpg/250px-Tihane.jpg"
+    },
+    {
+      "name": "330px-Parus_major_Luc_Viatour.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Parus_major_Luc_Viatour.jpg/330px-Parus_major_Luc_Viatour.jpg"
+    }
+  ],
+  "sounds": [
+    {
+      "name": "Parus_major_15mars2011.ogg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Parus_major_15mars2011.ogg"
+    }
+  ]
+}
