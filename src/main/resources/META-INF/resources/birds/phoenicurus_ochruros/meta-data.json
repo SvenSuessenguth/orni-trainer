@@ -1,0 +1,46 @@
+{
+  "category": "BRONZE",
+  "ordnung": "Passeriformes",
+  "familie": "Muscicapidae",
+  "species": "Phoenicurus ochruros",
+  "images": [
+    {
+      "name": "Männlicher_Hausrotschwanz_by_Mag._Christian_Bechter,_Vorarlberg.jpg",
+      "source": "https://de.wikipedia.org/wiki/Datei:M%C3%A4nnlicher_Hausrotschwanz_by_Mag._Christian_Bechter,_Vorarlberg.jpg"
+    },
+    {
+      "name": "Phoenicurus_ochruros_(male).jpg",
+      "source": "https://de.wikipedia.org/wiki/Datei:Phoenicurus_ochruros_(male).jpg"
+    },
+    {
+      "name": "Seehof_Phoenicurus_ochruros_female_5264746.jpg",
+      "source": "https://de.wikipedia.org/wiki/Datei:Seehof_Phoenicurus_ochruros_female_5264746.jpg"
+    },
+    {
+      "name": "PhoenicurusOchrurosGuntherHasler02.jpg",
+      "source": "https://de.wikipedia.org/wiki/Datei:PhoenicurusOchrurosGuntherHasler02.jpg"
+    },
+    {
+      "name": "960px-Rotschwänzchen_beim_Sonnenbad_oder_Federnreinigung.jpg",
+      "source": "https://de.wikipedia.org/wiki/Datei:Rotschw%C3%A4nzchen_beim_Sonnenbad_oder_Federnreinigung.jpg"
+    },
+    {
+      "name": "Black_redstart_in_France.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Black_redstart_in_France.jpg"
+    },
+    {
+      "name": "Black_redstart,_Phoenicurus_ochruros,_Svart_rödstjärt_-_52497131484.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Black_redstart,_Phoenicurus_ochruros,_Svart_r%C3%B6dstj%C3%A4rt_-_52497131484.jpg"
+    },
+    {
+      "name": "Rödstjärt_Redstart_(31081735814).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:R%C3%B6dstj%C3%A4rt_Redstart_(31081735814).jpg"
+    }
+  ],
+  "sounds": [
+    {
+      "name": "Singing_Phoenicurus_ochruros.ogg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Singing_Phoenicurus_ochruros.ogg"
+    }
+  ]
+}
