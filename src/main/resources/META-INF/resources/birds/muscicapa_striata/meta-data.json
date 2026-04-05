@@ -1,0 +1,62 @@
+{
+  "category": "BRONZE",
+  "ordnung": "Passeriformes",
+  "familie": "Muscicapidae",
+  "species": "Muscicapa striata",
+  "images": [
+    {
+      "name": "Muscicapa_striata_мухоловка_сіра.jpg",
+      "source": "https://de.wikipedia.org/wiki/Datei:Muscicapa_striata_%D0%BC%D1%83%D1%85%D0%BE%D0%BB%D0%BE%D0%B2%D0%BA%D0%B0_%D1%81%D1%96%D1%80%D0%B0.jpg"
+    },
+    {
+      "name": "Fütterung_junger_Grauschnäpper.jpg",
+      "source": "https://de.wikipedia.org/wiki/Datei:F%C3%BCtterung_junger_Grauschn%C3%A4pper.jpg"
+    },
+    {
+      "name": "Juvenile_Spotted_Flycatcher_(Muscicapa_striata)_(7).jpg",
+      "source": "https://de.wikipedia.org/wiki/Datei:Juvenile_Spotted_Flycatcher_(Muscicapa_striata)_(7).jpg"
+    },
+    {
+      "name": "LBT167(loz).jpg",
+      "source": "https://de.wikipedia.org/wiki/Datei:LBT167(loz).jpg"
+    },
+    {
+      "name": "SpottedFlycatcheronfence.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:SpottedFlycatcheronfence.jpg"
+    },
+    {
+      "name": "Flycatcher_on_wire.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Flycatcher_on_wire.jpg"
+    },
+    {
+      "name": "Flycatcher_(49558624).jpeg",
+      "source": "https://commons.wikimedia.org/wiki/File:Flycatcher_(49558624).jpeg"
+    },
+    {
+      "name": "Browns_and_greens.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Browns_and_greens.jpg"
+    },
+    {
+      "name": "Muscicapa_striata_-_Spotted_Flycatcher_03.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Muscicapa_striata_-_Spotted_Flycatcher_03.jpg"
+    },
+    {
+      "name": "Muscicapa_striata_1_(Martin_Mecnarowski).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Muscicapa_striata_1_(Martin_Mecnarowski).jpg"
+    },
+    {
+      "name": "Muscicapa_striata_12.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Muscicapa_striata_12.jpg"
+    },
+    {
+    "name": "Muscicapa_striata_235052504.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Muscicapa_striata_235052504.jpg"
+    }
+  ],
+  "sounds": [
+    {
+      "name": "",
+      "source": ""
+    }
+  ]
+}
