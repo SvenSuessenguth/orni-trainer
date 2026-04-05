@@ -1,0 +1,54 @@
+{
+  "category": "BRONZE",
+  "ordnung": "Passeriformes",
+  "familie": "Muscicapidae",
+  "species": "Erithacus rubecula",
+  "images": [
+    {
+      "name": "Robin_(9509442456).jpg",
+      "source": "https://de.wikipedia.org/wiki/Datei:Robin_(9509442456).jpg"
+    },
+    {
+      "name": "Erithacus_rubecula_profile.jpg",
+      "source": "https://de.wikipedia.org/wiki/Datei:Erithacus_rubecula_profile.jpg"
+    },
+    {
+      "name": "Erithacus_rubecula_Radeberg_6.jpg",
+      "source": "https://de.wikipedia.org/wiki/Datei:Erithacus_rubecula_Radeberg_6.jpg"
+    },
+    {
+      "name": "Rotkehlchen_WP.jpg",
+      "source": "https://de.wikipedia.org/wiki/Datei:Rotkehlchen_WP.jpg"
+    },
+    {
+      "name": "Erithacus_rubecula_(Madrid,_Spain)_07.jpg",
+      "source": "https://de.wikipedia.org/wiki/Datei:Erithacus_rubecula_(Madrid,_Spain)_07.jpg"
+    },
+    {
+      "name": "Robin_(Erithacus_rubecula)_in_snowy_winter_landscape.jpg",
+      "source": "https://de.wikipedia.org/wiki/Datei:Robin_(Erithacus_rubecula)_in_snowy_winter_landscape.jpg"
+    },
+    {
+      "name": "960px-European_Robin_(Erithacus_rubecula)_with_mealworm.jpeg",
+      "source": "https://de.wikipedia.org/wiki/Datei:European_Robin_(Erithacus_rubecula)_with_mealworm.jpeg"
+    },
+    {
+      "name": "RotkehlchenFischfang.jpg",
+      "source": "https://de.wikipedia.org/wiki/Datei:RotkehlchenFischfang.jpg"
+    },
+    {
+      "name": "Erithacus_rubecula_Radeberg_4.jpg",
+      "source": "https://de.wikipedia.org/wiki/Datei:Erithacus_rubecula_Radeberg_4.jpg"
+    },
+    {
+      "name": "Danflug.jpg",
+      "source": "https://de.wikipedia.org/wiki/Datei:Danflug.jpg"
+    }
+  ],
+  "sounds": [
+    {
+      "name": "Erithacus_rubecula.ogg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Erithacus_rubecula.ogg"
+    }
+  ]
+}
