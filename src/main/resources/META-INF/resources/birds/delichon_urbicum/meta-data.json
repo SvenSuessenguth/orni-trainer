@@ -1,0 +1,30 @@
+{
+  "category": "BRONZE",
+  "ordnung": "Passeriformes",
+  "familie": "Hirundinidae",
+  "species": "Delichon urbicum",
+  "images": [
+    {
+      "name": "Mehlschwalbe_Delichon_urbicum.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Mehlschwalbe_Delichon_urbicum.jpg/960px-Mehlschwalbe_Delichon_urbicum.jpg"
+    },
+    {
+      "name": "Mehlschwalbe_im_Flug.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Mehlschwalbe_im_Flug.jpg"
+    },
+    {
+      "name": "Mehlschwalbe.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Mehlschwalbe.jpg/960px-Mehlschwalbe.jpg"
+    },
+    {
+      "name": "Delichon_urbicum_11.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Delichon_urbicum_11.jpg/960px-Delichon_urbicum_11.jpg"
+    }
+  ],
+  "sounds": [
+    {
+      "name": "",
+      "source": ""
+    }
+  ]
+}
