@@ -1,0 +1,50 @@
+{
+  "category": "BRONZE",
+  "ordnung": "Passeriformes",
+  "familie": "Acrocephalidae",
+  "species": "Acrocephalus scirpaceus",
+  "images": [
+    {
+      "name": "PleidelsheimerWiesentalTeichrohrsaenger.jpg",
+      "source": "https://de.wikipedia.org/wiki/Teichrohrs%C3%A4nger#/media/Datei:PleidelsheimerWiesentalTeichrohrsaenger.jpg"
+    },
+    {
+      "name": "Reed_warbler_cuckoo.jpg",
+      "source": "https://de.wikipedia.org/wiki/Datei:Reed_warbler_cuckoo.jpg"
+    },
+    {
+      "name": "Eurasian_Reed_Warbler.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Eurasian_Reed_Warbler.jpg"
+    },
+    {
+      "name": "2016.07.14.-01-Westensee_Felde--Teichrohrsaenger.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:2016.07.14.-01-Westensee_Felde--Teichrohrsaenger.jpg"
+    },
+    {
+      "name": "2016.07.13.-01-Westensee_Felde--Teichrohrsaenger.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:2016.07.13.-01-Westensee_Felde--Teichrohrsaenger.jpg"
+    },
+    {
+      "name": "960px-Acrocephalus_scirpaceus_(Bertinetto).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Acrocephalus_scirpaceus_(Bertinetto).jpg"
+    },
+    {
+      "name": "Acrocephalus_scirpaceus_2015-05.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Acrocephalus_scirpaceus_2015-05.jpg"
+    },
+    {
+      "name": "Acrocephalus_scirpaceus_IMG_7464.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Acrocephalus_scirpaceus_IMG_7464.jpg"
+    },
+    {
+      "name": "Acrocephalus_scirpaceus_Vlaskop.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Acrocephalus_scirpaceus_Vlaskop.jpg"
+    }
+  ],
+  "sounds": [
+    {
+      "name": "Acrocephalus_scirpaceus_1.ogg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/9/98/Acrocephalus_scirpaceus_1.ogg"
+    }
+  ]
+}
