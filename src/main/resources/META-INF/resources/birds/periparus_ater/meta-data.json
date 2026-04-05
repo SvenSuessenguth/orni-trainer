@@ -1,0 +1,38 @@
+{
+  "category": "BRONZE",
+  "ordnung": "",
+  "familie": "",
+  "species": "",
+  "images": [
+    {
+      "name": "Parus_ater_2_(Marek_Szczepanek).jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Parus_ater_2_%28Marek_Szczepanek%29.jpg/500px-Parus_ater_2_%28Marek_Szczepanek%29.jpg"
+    },
+    {
+      "name": "Coal_tit_(Periparus_ater)_on_line.jpeg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Coal_tit_%28Periparus_ater%29_on_line.jpeg/250px-Coal_tit_%28Periparus_ater%29_on_line.jpeg"
+    },
+    {
+      "name": "Coal_tit_UK09.JPG",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Coal_tit_UK09.JPG/250px-Coal_tit_UK09.JPG"
+    },
+    {
+      "name": "Parus_ater01.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Parus_ater01.jpg/250px-Parus_ater01.jpg"
+    },
+    {
+      "name": "2017.01.27.-18-Paradiski-La_Plagne-Champagny-en-Vanoise--Tannenmeise.jpg",
+      "source": "https://commons.wikimedia.org/wiki/Periparus_ater?uselang=de#/media/File:2017.01.27.-18-Paradiski-La_Plagne-Champagny-en-Vanoise--Tannenmeise.jpg"
+    },
+    {
+      "name": "Periparus_ater_I.jpg",
+      "source": "https://commons.wikimedia.org/wiki/Periparus_ater?uselang=de#/media/File:Periparus_ater_I.jpg"
+    }
+  ],
+  "sounds": [
+    {
+      "name": "",
+      "source": ""
+    }
+  ]
+}
