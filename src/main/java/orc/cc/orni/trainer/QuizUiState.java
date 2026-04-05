@@ -45,14 +45,14 @@ public class QuizUiState implements Serializable {
     void selectBird() {
         // Bird
         var countBirds = birdsAnsweredNotCorrect.size();
-        var birdNumber = ThreadLocalRandom.current().nextInt(0, countBirds);
+        var birdNumber = ThreadLocalRandom.current().nextInt(0, countBirds) - 1;
         log.info("Random Bird number is: " + birdNumber);
         bird = resources.getBirds().get(birdNumber);
 
         // Image
         var path = bird.getSpecies().replace(" ", "_");
         var countImages = bird.getImages().size();
-        var randomImageNumber = ThreadLocalRandom.current().nextInt(0, countImages);
+        var randomImageNumber = ThreadLocalRandom.current().nextInt(0, countImages) - 1;
         log.info("Random image number is: " + randomImageNumber);
         var randomImageName = bird.getImages().get(randomImageNumber).name();
         log.info("randomImageName: " + path.toLowerCase() + "/" + randomImageName);
@@ -60,7 +60,7 @@ public class QuizUiState implements Serializable {
 
         // Sound
         var countSounds = bird.getSounds().size();
-        var randomSoundNumber = ThreadLocalRandom.current().nextInt(0, countSounds);
+        var randomSoundNumber = ThreadLocalRandom.current().nextInt(0, countSounds) - 1;
         log.info("Random soound number is: " + randomSoundNumber);
         var randomSoundName = bird.getImages().get(randomSoundNumber).name();
         log.info("randomSoundName: " + path.toLowerCase() + "/" + randomSoundName);
@@ -79,5 +79,9 @@ public class QuizUiState implements Serializable {
 
     public boolean isSpeciesHint() {
         return hint == Hint.SPECIES;
+    }
+
+    public int getCountBirdsLeft() {
+        return birdsAnsweredNotCorrect.size();
     }
 }

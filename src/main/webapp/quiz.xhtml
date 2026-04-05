@@ -18,6 +18,8 @@
 
     <ui:define name="main">
         <h1>#{i18nText.welcome}</h1>
+        <h:outputLabel for="countBirdsLeft" value="Noch"/>
+        <h:outputText id="countBirdsLeft" value="#{quizUiState.countBirdsLeft}"/>
         <div class="parent">
             <div class="div1">
                 <!--
