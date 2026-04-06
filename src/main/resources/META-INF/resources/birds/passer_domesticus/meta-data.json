@@ -1,0 +1,34 @@
+{
+  "category": "BRONZE",
+  "ordnung": "Passeriformes",
+  "familie": "Passeridae",
+  "species": "Passer domesticus",
+  "images": [
+    {
+      "name": "House_sparrow_male_in_Prospect_Park_(53532).jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/House_sparrow_male_in_Prospect_Park_%2853532%29.jpg/1920px-House_sparrow_male_in_Prospect_Park_%2853532%29.jpg"
+    },
+    {
+      "name": "Female_Sparrow.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Female_Sparrow.jpg/1920px-Female_Sparrow.jpg"
+    },
+    {
+      "name": "Passer_domesticus_03.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Passer_domesticus_03.jpg/1280px-Passer_domesticus_03.jpg"
+    },
+    {
+      "name": "Family_That_Bathes_Together.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Family_That_Bathes_Together.jpg"
+    },
+    {
+      "name": "House_Sparrows_mating_I_IMG_0066.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/1/11/House_Sparrows_mating_I_IMG_0066.jpg"
+    }
+  ],
+  "sounds": [
+    {
+      "name": "House_Sparrows_(Passer_domesticus)_(W1CDR0001537_BD13).ogg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/b/ba/House_Sparrows_%28Passer_domesticus%29_%28W1CDR0001537_BD13%29.ogg"
+    }
+  ]
+}
