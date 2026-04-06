@@ -8,8 +8,8 @@ import lombok.Data;
 import lombok.extern.java.Log;
 
 import java.io.Serializable;
-import java.util.HashSet;
-import java.util.Set;
+import java.util.ArrayList;
+import java.util.List;
 import java.util.concurrent.ThreadLocalRandom;
 
 @ViewScoped
@@ -28,7 +28,7 @@ public class QuizUiState implements Serializable {
     private String soundName;
     private boolean showResolution = false;
 
-    private Set<Bird> birdsAnsweredNotCorrect = new HashSet<>();
+    private List<Bird> birdsAnsweredNotCorrect = new ArrayList<>();
 
     @PostConstruct
     public void postConstruct() {
@@ -47,7 +47,7 @@ public class QuizUiState implements Serializable {
         var countBirds = birdsAnsweredNotCorrect.size();
         var birdNumber = ThreadLocalRandom.current().nextInt(0, countBirds);
         log.info("Random Bird number is: " + birdNumber + " out of " + countBirds);
-        bird = resources.getBirds().get(birdNumber);
+        bird = birdsAnsweredNotCorrect.get(birdNumber);
 
         // Image
         var countImages = bird.getImages().size();
@@ -66,7 +66,7 @@ public class QuizUiState implements Serializable {
             var randomSoundName = bird.getImages().get(randomSoundNumber).name();
             log.info("randomSoundName: " + path.toLowerCase() + "/" + randomSoundName);
             soundName = path.toLowerCase() + "/" + randomSoundName;
-        }else {
+        } else {
             soundName = null;
         }
 

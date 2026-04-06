@@ -1,0 +1,46 @@
+{
+  "category": "BRONZE",
+  "ordnung": "Passeriformes",
+  "familie": "Sturnidae",
+  "species": "Sturnus vulgaris",
+  "images": [
+    {
+      "name": "Sturnus_vulgaris_2_(Marek_Szczepanek).jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Sturnus_vulgaris_2_%28Marek_Szczepanek%29.jpg"
+    },
+    {
+      "name": "Sturnusvulgaris_starling_spreeuw.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/6/68/Sturnusvulgaris_starling_spreeuw.jpg"
+    },
+    {
+      "name": "STURNUS_VULGARIS.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/9/98/STURNUS_VULGARIS.JPG"
+    },
+    {
+      "name": "Sturnus_vulgaris_(European_starling)_at_Bodega_Head-1209.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Sturnus_vulgaris_%28European_starling%29_at_Bodega_Head-1209.jpg/1920px-Sturnus_vulgaris_%28European_starling%29_at_Bodega_Head-1209.jpg"
+    },
+    {
+      "name": "Star.Bruthoehle.P1092117.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Star.Bruthoehle.P1092117.jpg/1280px-Star.Bruthoehle.P1092117.jpg"
+    },
+    {
+      "name": "Sturnus_vulgaris_vulgaris_2.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Sturnus_vulgaris_vulgaris_2.jpg/960px-Sturnus_vulgaris_vulgaris_2.jpg"
+    },
+    {
+      "name": "Star-Paerchen.mit.Kirsche.P1300574.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/9/90/Star-Paerchen.mit.Kirsche.P1300574.jpg"
+    },
+    {
+      "name": "Alt_Zeschdorf_(MOL_Brandenburg)_-_Singstare.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Alt_Zeschdorf_%28MOL_Brandenburg%29_-_Singstare.jpg/1920px-Alt_Zeschdorf_%28MOL_Brandenburg%29_-_Singstare.jpg"
+    }
+  ],
+  "sounds": [
+    {
+      "name": "Sturnus_vulgaris_juveniles_sound_recording.ogg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Sturnus_vulgaris_juveniles_sound_recording.ogg"
+    }
+  ]
+}
