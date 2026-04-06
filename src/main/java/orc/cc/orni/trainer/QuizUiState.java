@@ -50,11 +50,11 @@ public class QuizUiState implements Serializable {
         bird = resources.getBirds().get(birdNumber);
 
         // Image
-        var path = bird.getSpecies().replace(" ", "_");
         var countImages = bird.getImages().size();
         var randomImageNumber = ThreadLocalRandom.current().nextInt(0, countImages);
         log.info("Random image number is: " + randomImageNumber + " out of " + countImages);
         var randomImageName = bird.getImages().get(randomImageNumber).name();
+        var path = bird.getSpecies().replace(" ", "_");
         log.info("randomImageName: " + path.toLowerCase() + "/" + randomImageName);
         imageName = path.toLowerCase() + "/" + randomImageName;
 
