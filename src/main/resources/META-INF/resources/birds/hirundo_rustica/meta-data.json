@@ -1,0 +1,42 @@
+{
+  "category": "BRONZE",
+  "ordnung": "",
+  "familie": "",
+  "species": "",
+  "images": [
+    {
+      "name": "Rauchschwalbe_Hirundo_rustica.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Rauchschwalbe_Hirundo_rustica.jpg/960px-Rauchschwalbe_Hirundo_rustica.jpg"
+    },
+    {
+      "name": "Hirundo_rustica_hunting.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Hirundo_rustica_hunting.jpg/250px-Hirundo_rustica_hunting.jpg"
+    },
+    {
+      "name": "Hirondelle_rustique_(51099854338).jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Hirondelle_rustique_%2851099854338%29.jpg/250px-Hirondelle_rustique_%2851099854338%29.jpg"
+    },
+    {
+      "name": "Rauchschwalbe_beim_Nestbau.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Rauchschwalbe_beim_Nestbau.jpg/250px-Rauchschwalbe_beim_Nestbau.jpg"
+    },
+    {
+      "name": "Barn_Swallow_(34706316542).jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Barn_Swallow_%2834706316542%29.jpg/120px-Barn_Swallow_%2834706316542%29.jpg"
+    },
+    {
+      "name": "120px-Barn_Swallow_(Hirundo_rustica)_(46701269582).jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Barn_Swallow_%28Hirundo_rustica%29_%2846701269582%29.jpg/120px-Barn_Swallow_%28Hirundo_rustica%29_%2846701269582%29.jpg"
+    },
+    {
+      "name": "Barn_swallow_antelope_sp_7.22.23_DSC_5730.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Barn_swallow_antelope_sp_7.22.23_DSC_5730.jpg/960px-Barn_swallow_antelope_sp_7.22.23_DSC_5730.jpg"
+    }
+  ],
+  "sounds": [
+    {
+      "name": "",
+      "source": ""
+    }
+  ]
+}
