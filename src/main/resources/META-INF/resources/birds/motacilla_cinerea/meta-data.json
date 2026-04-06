@@ -1,0 +1,34 @@
+{
+  "category": "BRONZE",
+  "ordnung": "Passeriformes",
+  "familie": "Motacillidae",
+  "species": "Motacilla cinerea",
+  "images": [
+    {
+      "name": "Grey_wagtail_at_Tennōji_Park_in_Osaka,_November_2016_-_890.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Grey_wagtail_at_Tenn%C5%8Dji_Park_in_Osaka%2C_November_2016_-_890.jpg/1920px-Grey_wagtail_at_Tenn%C5%8Dji_Park_in_Osaka%2C_November_2016_-_890.jpg"
+    },
+    {
+      "name": "Terîhejoka_boçikzer.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Ter%C3%AEhejoka_bo%C3%A7ikzer.jpg/960px-Ter%C3%AEhejoka_bo%C3%A7ikzer.jpg?_=20110310093559"
+    },
+    {
+      "name": "Bergeronette.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Bergeronette.jpg/960px-Bergeronette.jpg?_=20101105200333"
+    },
+    {
+      "name": "Gebirgsstelze_im_Geo-Naturpark_Bergstraße-Odenwald.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Gebirgsstelze_im_Geo-Naturpark_Bergstra%C3%9Fe-Odenwald.jpg/960px-Gebirgsstelze_im_Geo-Naturpark_Bergstra%C3%9Fe-Odenwald.jpg?_=20220514145351"
+    },
+    {
+      "name": "Gebirgsstelze_im_Siebengebirge,_Bonn,_Deutschland_2.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Gebirgsstelze_im_Siebengebirge%2C_Bonn%2C_Deutschland_2.jpg/960px-Gebirgsstelze_im_Siebengebirge%2C_Bonn%2C_Deutschland_2.jpg?_=20230503105802"
+    }
+  ],
+  "sounds": [
+    {
+      "name": "",
+      "source": ""
+    }
+  ]
+}
