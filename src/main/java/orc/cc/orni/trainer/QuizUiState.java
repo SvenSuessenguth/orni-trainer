@@ -45,23 +45,23 @@ public class QuizUiState implements Serializable {
     void selectBird() {
         // Bird
         var countBirds = birdsAnsweredNotCorrect.size();
-        var birdNumber = ThreadLocalRandom.current().nextInt(0, countBirds) - 1;
-        log.info("Random Bird number is: " + birdNumber);
+        var birdNumber = ThreadLocalRandom.current().nextInt(0, countBirds);
+        log.info("Random Bird number is: " + birdNumber + " out of " + countBirds);
         bird = resources.getBirds().get(birdNumber);
 
         // Image
         var path = bird.getSpecies().replace(" ", "_");
         var countImages = bird.getImages().size();
-        var randomImageNumber = ThreadLocalRandom.current().nextInt(0, countImages) - 1;
-        log.info("Random image number is: " + randomImageNumber);
+        var randomImageNumber = ThreadLocalRandom.current().nextInt(0, countImages);
+        log.info("Random image number is: " + randomImageNumber + " out of " + countImages);
         var randomImageName = bird.getImages().get(randomImageNumber).name();
         log.info("randomImageName: " + path.toLowerCase() + "/" + randomImageName);
         imageName = path.toLowerCase() + "/" + randomImageName;
 
         // Sound
         var countSounds = bird.getSounds().size();
-        var randomSoundNumber = ThreadLocalRandom.current().nextInt(0, countSounds) - 1;
-        log.info("Random soound number is: " + randomSoundNumber);
+        var randomSoundNumber = ThreadLocalRandom.current().nextInt(0, countSounds);
+        log.info("Random soound number is: " + randomSoundNumber + " out of " + countSounds);
         var randomSoundName = bird.getImages().get(randomSoundNumber).name();
         log.info("randomSoundName: " + path.toLowerCase() + "/" + randomSoundName);
         soundName = path.toLowerCase() + "/" + randomSoundName;
