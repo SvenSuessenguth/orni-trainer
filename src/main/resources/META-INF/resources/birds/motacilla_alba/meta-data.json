@@ -1,0 +1,34 @@
+{
+  "category": "BRONZE",
+  "ordnung": "Passeriformes",
+  "familie": "Motacillidae",
+  "species": "Motacilla alba",
+  "images": [
+    {
+      "name": "Bachstelze_Motacilla_alba.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Bachstelze_Motacilla_alba.jpg/1920px-Bachstelze_Motacilla_alba.jpg"
+    },
+    {
+      "name": "Motacilla_alba(Gollibolli)2.JPG",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Motacilla_alba%28Gollibolli%292.JPG/1920px-Motacilla_alba%28Gollibolli%292.JPG"
+    },
+    {
+      "name": "IMG_2687_filtered.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/1/14/IMG_2687_filtered.jpg"
+    },
+    {
+      "name": "White_wagtail_female_first_summer.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/White_wagtail_female_first_summer.jpg/1920px-White_wagtail_female_first_summer.jpg"
+    },
+    {
+      "name": "Motacilla_alba_1.JPG",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Motacilla_alba_1.JPG/1920px-Motacilla_alba_1.JPG"
+    }
+  ],
+  "sounds": [
+    {
+      "name": "",
+      "source": ""
+    }
+  ]
+}
