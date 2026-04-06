@@ -8,8 +8,8 @@ import lombok.Data;
 import lombok.extern.java.Log;
 
 import java.io.Serializable;
-import java.util.ArrayList;
-import java.util.List;
+import java.util.HashSet;
+import java.util.Set;
 import java.util.concurrent.ThreadLocalRandom;
 
 @ViewScoped
@@ -28,7 +28,7 @@ public class QuizUiState implements Serializable {
     private String soundName;
     private boolean showResolution = false;
 
-    private List<Bird> birdsAnsweredNotCorrect = new ArrayList<>();
+    private Set<Bird> birdsAnsweredNotCorrect = new HashSet<>();
 
     @PostConstruct
     public void postConstruct() {
@@ -60,11 +60,15 @@ public class QuizUiState implements Serializable {
 
         // Sound
         var countSounds = bird.getSounds().size();
-        var randomSoundNumber = ThreadLocalRandom.current().nextInt(0, countSounds);
-        log.info("Random soound number is: " + randomSoundNumber + " out of " + countSounds);
-        var randomSoundName = bird.getImages().get(randomSoundNumber).name();
-        log.info("randomSoundName: " + path.toLowerCase() + "/" + randomSoundName);
-        soundName = path.toLowerCase() + "/" + randomSoundName;
+        if (countSounds > 0) {
+            var randomSoundNumber = ThreadLocalRandom.current().nextInt(0, countSounds);
+            log.info("Random soound number is: " + randomSoundNumber + " out of " + countSounds);
+            var randomSoundName = bird.getImages().get(randomSoundNumber).name();
+            log.info("randomSoundName: " + path.toLowerCase() + "/" + randomSoundName);
+            soundName = path.toLowerCase() + "/" + randomSoundName;
+        }else {
+            soundName = null;
+        }
 
         showResolution = false;
     }

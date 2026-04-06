@@ -1,8 +1,8 @@
 {
   "category": "BRONZE",
-  "ordnung": "",
-  "familie": "",
-  "species": "",
+  "ordnung": "Passeriformes",
+  "familie": "Hirundinidae",
+  "species": "Hirundo rustica",
   "images": [
     {
       "name": "Rauchschwalbe_Hirundo_rustica.jpg",
