@@ -45,10 +45,10 @@
       "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Gr%C3%BCnspecht%28Picus_viridis%29_Nussbaum.jpg/500px-Gr%C3%BCnspecht%28Picus_viridis%29_Nussbaum.jpg"
     }
   ],
-  "sounds": {
-    "sound": {
+  "sounds": [
+    {
       "name": "",
       "source": ""
     }
-  }
+  ]
 }
