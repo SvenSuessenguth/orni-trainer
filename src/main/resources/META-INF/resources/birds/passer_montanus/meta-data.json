@@ -1,0 +1,38 @@
+{
+  "category": "BRONZE",
+  "ordnung": "Passeriformes",
+  "familie": "Passeridae",
+  "species": "Passer montanus",
+  "images": [
+    {
+      "name": "Tree-Sparrow-2009-16-02.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Tree-Sparrow-2009-16-02.jpg/1920px-Tree-Sparrow-2009-16-02.jpg"
+    },
+    {
+      "name": "Eurasian_Tree_Sparrow.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Eurasian_Tree_Sparrow.jpg/1920px-Eurasian_Tree_Sparrow.jpg"
+    },
+    {
+      "name": "Passer_montanus_-Japan_-front-8.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Passer_montanus_-Japan_-front-8.jpg"
+    },
+    {
+      "name": "Tree_Sparrow_20080423.JPG",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Tree_Sparrow_20080423.JPG/960px-Tree_Sparrow_20080423.JPG"
+    },
+    {
+      "name": "Tree_Sparrow_Japan_Flip.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/7/73/Tree_Sparrow_Japan_Flip.jpg"
+    },
+    {
+      "name": "Passer_montanus_bl.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Passer_montanus_bl.jpg"
+    }
+  ],
+  "sounds": [
+    {
+      "name": "Passer_montanus.ogg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/8/83/Passer_montanus.ogg"
+    }
+  ]
+}
