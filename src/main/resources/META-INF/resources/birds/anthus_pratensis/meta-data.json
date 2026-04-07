@@ -1,0 +1,58 @@
+{
+  "category": "BRONZE",
+  "ordnung": "Passeriformes",
+  "familie": "Motacillidae",
+  "species": "Anthus pratensis",
+  "images": [
+    {
+      "name": "Wiesenpieper_Meadow_pipit.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Wiesenpieper_Meadow_pipit.jpg/1920px-Wiesenpieper_Meadow_pipit.jpg"
+    },
+    {
+      "name": "Wiesenpieper_auf_dem_Ostergroen_Spiekeroog_-_Nationalpark_niedersächsisches_Wattenmeer-Crop.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Wiesenpieper_auf_dem_Ostergroen_Spiekeroog_-_Nationalpark_nieders%C3%A4chsisches_Wattenmeer-Crop.jpg/1920px-Wiesenpieper_auf_dem_Ostergroen_Spiekeroog_-_Nationalpark_nieders%C3%A4chsisches_Wattenmeer-Crop.jpg"
+    },
+    {
+      "name": "Anthus_pratensis_(32950327474).jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Anthus_pratensis_%2832950327474%29.jpg/960px-Anthus_pratensis_%2832950327474%29.jpg?_=20171030184952"
+    },
+    {
+      "name": "A_meadow_pipit_above_Tor_Dike_-_geograph.org.uk_-_1413365.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/6/6c/A_meadow_pipit_above_Tor_Dike_-_geograph.org.uk_-_1413365.jpg?_=20110301150137"
+    },
+    {
+      "name": "Anthus_pratensis_(Larvik).JPG",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Anthus_pratensis_%28Larvik%29.JPG/960px-Anthus_pratensis_%28Larvik%29.JPG?_=20160415070124"
+    },
+    {
+      "name": "Anthus_pratensis_(33752471506).jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Anthus_pratensis_%2833752471506%29.jpg/960px-Anthus_pratensis_%2833752471506%29.jpg?_=20171030184510"
+    },
+    {
+      "name": "Anthus_pratensis_-_Meadow_Pipit,_Adana_2016-11-05_01-1.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Anthus_pratensis_-_Meadow_Pipit%2C_Adana_2016-11-05_01-1.jpg/960px-Anthus_pratensis_-_Meadow_Pipit%2C_Adana_2016-11-05_01-1.jpg?_=20161106181320"
+    },
+    {
+      "name": "Anthus_pratensis_142930435.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Anthus_pratensis_142930435.jpg/960px-Anthus_pratensis_142930435.jpg?_=20210915165201"
+    },
+    {
+      "name": "Anthus_pratensis_156109132.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Anthus_pratensis_156109132.jpg/960px-Anthus_pratensis_156109132.jpg?_=20210915163505"
+    },
+    {
+      "name": "Anthus_pratensis_156108279.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/3/39/Anthus_pratensis_156108279.jpg?_=20210915163524"
+    },
+    {
+      "name": "Anthus_pratensis_4.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Anthus_pratensis_4.jpg/960px-Anthus_pratensis_4.jpg?_=20090408193035"
+    }
+  ],
+  "sounds": [
+    {
+      "name": "",
+      "source": ""
+    }
+  ]
+}
