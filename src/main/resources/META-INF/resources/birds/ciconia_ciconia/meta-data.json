@@ -1,0 +1,38 @@
+{
+  "category": "BRONZE",
+  "order": "Ciconiiformes",
+  "family": "Ciconiidae",
+  "species": "Ciconia ciconia",
+  "images": [
+    {
+      "name": "Ciconia_ciconia_(aka).jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Ciconia_ciconia_%28aka%29.jpg/960px-Ciconia_ciconia_%28aka%29.jpg"
+    },
+    {
+      "name": "Weißstorch_mit_geweißten_Beinen.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Wei%C3%9Fstorch_mit_gewei%C3%9Ften_Beinen.jpg/960px-Wei%C3%9Fstorch_mit_gewei%C3%9Ften_Beinen.jpg"
+    },
+    {
+      "name": "Kämpfende_Weißstörche_im_Naturschutzgebiet_Ahsewiesen_im_Kreis_Soest_42.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/K%C3%A4mpfende_Wei%C3%9Fst%C3%B6rche_im_Naturschutzgebiet_Ahsewiesen_im_Kreis_Soest_42.jpg/1920px-K%C3%A4mpfende_Wei%C3%9Fst%C3%B6rche_im_Naturschutzgebiet_Ahsewiesen_im_Kreis_Soest_42.jpg"
+    },
+    {
+      "name": "White_Stork.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/White_Stork.jpg/1920px-White_Stork.jpg"
+    },
+    {
+      "name": "Storchennest&Gelege_20230520_143344.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Storchennest%26Gelege_20230520_143344.jpg/1920px-Storchennest%26Gelege_20230520_143344.jpg"
+    },
+    {
+      "name": "Ciconia_ciconia_-_01.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Ciconia_ciconia_-_01.jpg/1920px-Ciconia_ciconia_-_01.jpg"
+    }
+  ],
+  "sounds": [
+    {
+      "name": "",
+      "source": ""
+    }
+  ]
+}
