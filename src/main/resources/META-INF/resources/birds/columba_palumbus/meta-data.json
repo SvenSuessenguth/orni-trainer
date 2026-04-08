@@ -1,0 +1,42 @@
+{
+  "category": "BRONZE",
+  "order": "Columbiformes",
+  "family": "Columbidae",
+  "species": "Columba palumbus",
+  "images": [
+    {
+      "name": "Columba_palumbus_1_(Marek_Szczepanek).jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/6/63/Columba_palumbus_1_%28Marek_Szczepanek%29.jpg"
+    },
+    {
+      "name": "Common_Wood_Pigeon.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Common_Wood_Pigeon.jpg/960px-Common_Wood_Pigeon.jpg"
+    },
+    {
+      "name": "Columba_palumbus_azorica.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Columba_palumbus_azorica.jpg/960px-Columba_palumbus_azorica.jpg"
+    },
+    {
+      "name": "Wood_pigeon_group.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Wood_pigeon_group.jpg/960px-Wood_pigeon_group.jpg"
+    },
+    {
+      "name": "Columba_palumbus_eating.JPG",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Columba_palumbus_eating.JPG/960px-Columba_palumbus_eating.JPG"
+    },
+    {
+      "name": "Ringel-taube-2010-007.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Ringel-taube-2010-007.jpg/500px-Ringel-taube-2010-007.jpg"
+    },
+    {
+      "name": "RingeltaubeSV.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/RingeltaubeSV.jpg/960px-RingeltaubeSV.jpg"
+    }
+  ],
+  "sounds": [
+    {
+      "name": "Ringeltaube_(ruft).ogg.mp3",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/transcoded/7/77/Ringeltaube_%28ruft%29.ogg/Ringeltaube_%28ruft%29.ogg.mp3"
+    }
+  ]
+}
