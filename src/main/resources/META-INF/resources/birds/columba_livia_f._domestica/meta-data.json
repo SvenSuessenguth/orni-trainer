@@ -1,0 +1,50 @@
+{
+  "category": "BRONZE",
+  "order": "Columbiformes",
+  "family": "Columbidae",
+  "species": "Columba livia f. domestica",
+  "images": [
+    {
+      "name": "Feral_pigeon_(Columba_livia_domestica),_2017-05-27.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Feral_pigeon_%28Columba_livia_domestica%29%2C_2017-05-27.jpg/960px-Feral_pigeon_%28Columba_livia_domestica%29%2C_2017-05-27.jpg?_=20170721224229"
+    },
+    {
+      "name": "2017-04-08_Pigeons.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/2017-04-08_Pigeons.jpg/960px-2017-04-08_Pigeons.jpg?_=20220221070318"
+    },
+    {
+      "name": "A_pair_of_pigeons_at_Conwy_Castle.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/A_pair_of_pigeons_at_Conwy_Castle.jpg/960px-A_pair_of_pigeons_at_Conwy_Castle.jpg?_=20230610130328"
+    },
+    {
+      "name": "Blue_Pigeon.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Blue_Pigeon.jpg/960px-Blue_Pigeon.jpg?_=20230513135507"
+    },
+    {
+      "name": "C131017_(26613408659).jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/C131017_%2826613408659%29.jpg/960px-C131017_%2826613408659%29.jpg?_=20210512103445"
+    },
+    {
+      "name": "Couple_de_pigeons.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Couple_de_pigeons.jpg/960px-Couple_de_pigeons.jpg?_=20230107102229"
+    },
+    {
+      "name": "Columba_livia_domestica_Bytom.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Columba_livia_domestica_Bytom.jpg/960px-Columba_livia_domestica_Bytom.jpg?_=20231222185723"
+    },
+    {
+      "name": "Photo_of_columba_livia.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Photo_of_columba_livia.jpg/960px-Photo_of_columba_livia.jpg?_=20200415090402"
+    },
+    {
+      "name": "Photo_portrait_of_columba_livia.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Photo_portrait_of_columba_livia.jpg/500px-Photo_portrait_of_columba_livia.jpg?_=20200415090403"
+    }
+  ],
+  "sounds": [
+    {
+      "name": "",
+      "source": ""
+    }
+  ]
+}
