@@ -1,0 +1,42 @@
+{
+  "category": "BRONZE",
+  "order": "Passeriformes",
+  "family": "Troglodytidae",
+  "species": "Troglodytes troglodytes",
+  "images": [
+    {
+      "name": "Eurasian_wren_(Troglodytes_troglodytes).jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Eurasian_wren_%28Troglodytes_troglodytes%29.jpg/1920px-Eurasian_wren_%28Troglodytes_troglodytes%29.jpg"
+    },
+    {
+      "name": "Zaunkönig_IMG_0117.JPG",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Zaunk%C3%B6nig_IMG_0117.JPG/960px-Zaunk%C3%B6nig_IMG_0117.JPG"
+    },
+    {
+      "name": "Eurasian_wren_2023_12_31_02.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Eurasian_wren_2023_12_31_02.jpg/1920px-Eurasian_wren_2023_12_31_02.jpg"
+    },
+    {
+      "name": "Zaunkoenig2.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Zaunkoenig2.jpg/1920px-Zaunkoenig2.jpg"
+    },
+    {
+      "name": "Zaunkönig_IMG_0082.JPG",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Zaunk%C3%B6nig_IMG_0082.JPG/1920px-Zaunk%C3%B6nig_IMG_0082.JPG"
+    },
+    {
+      "name": "Gärdsmyg_(Troglodytes_troglodytes)_-_Ystad-2019.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/d/d5/G%C3%A4rdsmyg_%28Troglodytes_troglodytes%29_-_Ystad-2019.jpg"
+    },
+    {
+      "name": "960px-Zaunkönigküken.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Zaunk%C3%B6nigk%C3%BCken.jpg/960px-Zaunk%C3%B6nigk%C3%BCken.jpg"
+    }
+  ],
+  "sounds": [
+    {
+      "name": "Troglodytes_troglodytes_song.ogg.mp3",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/transcoded/f/f9/Troglodytes_troglodytes_song.ogg/Troglodytes_troglodytes_song.ogg.mp3"
+    }
+  ]
+}
