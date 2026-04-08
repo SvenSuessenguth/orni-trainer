@@ -1,7 +1,7 @@
 {
   "category": "BRONZE",
-  "ordnung": "Passeriformes",
-  "familie": "Corvidae",
+  "order": "Passeriformes",
+  "family": "Corvidae",
   "species": "Garrulus glandarius",
   "images": [
     {

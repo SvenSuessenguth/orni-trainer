@@ -1,7 +1,7 @@
 {
   "category": "BRONZE",
-  "ordnung": "Strigiformes",
-  "familie": "Strigidae",
+  "order": "Strigiformes",
+  "family": "Strigidae",
   "species": "Strix aluco",
   "images": [
     {

@@ -53,17 +53,17 @@
                  +-->
                 <table>
                     <tr>
-                        <td><h:outputLabel for="ordnung" value="Ordnung"/></td>
-                        <td><h:outputText id="ordnung" value="#{quizUiState.bird.ordnung}"
+                        <td><h:outputLabel for="ordnung" value="#{i18nText.order}"/></td>
+                        <td><h:outputText id="ordnung" value="#{quizUiState.bird.order}"
                                           rendered="#{quizUiState.showResolution}"/></td>
                     </tr>
                     <tr>
-                        <td><h:outputLabel for="familie" value="Familie"/></td>
-                        <td><h:outputText id="familie" value="#{quizUiState.bird.familie}"
+                        <td><h:outputLabel for="familie" value="#{i18nText.family}"/></td>
+                        <td><h:outputText id="familie" value="#{quizUiState.bird.family}"
                                           rendered="#{quizUiState.showResolution}"/></td>
                     </tr>
                     <tr>
-                        <td><h:outputLabel for="species" value="Art"/></td>
+                        <td><h:outputLabel for="species" value="#{i18nText.species}"/></td>
                         <td><h:outputText id="species"
                                           value="#{quizUiState.bird.species} (#{i18nSpecies[quizUiState.bird.species]})"
                                           rendered="#{quizUiState.showResolution}"/>

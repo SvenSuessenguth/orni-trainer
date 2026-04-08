@@ -11,9 +11,9 @@ import lombok.EqualsAndHashCode;
 public class Bird implements Serializable {
   @EqualsAndHashCode.Exclude
   Category category;
+  String order;
+  String family;
   String species;
-  String ordnung;
-  String familie;
   @EqualsAndHashCode.Exclude
   List<Image> images;
   @EqualsAndHashCode.Exclude

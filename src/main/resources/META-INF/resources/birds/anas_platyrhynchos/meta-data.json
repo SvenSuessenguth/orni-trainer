@@ -1,7 +1,7 @@
 {
   "category": "BRONZE",
-  "ordnung": "Anseriformes",
-  "familie": "Anatidae",
+  "order": "Anseriformes",
+  "family": "Anatidae",
   "species": "Anas platyrhynchos",
   "images": [
     {

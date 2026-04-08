@@ -1,7 +1,7 @@
 {
   "category": "BRONZE",
-  "ordnung": "Passeriformes",
-  "familie": "Sturnidae",
+  "order": "Passeriformes",
+  "family": "Sturnidae",
   "species": "Sturnus vulgaris",
   "images": [
     {

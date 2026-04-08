@@ -1,7 +1,7 @@
 {
   "category": "BRONZE",
-  "ordnung": "Passeriformes",
-  "familie": "Passeridae",
+  "order": "Passeriformes",
+  "family": "Passeridae",
   "species": "Passer domesticus",
   "images": [
     {

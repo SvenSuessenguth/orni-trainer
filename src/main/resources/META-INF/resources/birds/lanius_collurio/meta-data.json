@@ -1,0 +1,42 @@
+{
+  "category": "BRONZE",
+  "order": "Passeriformes",
+  "family": "Laniidae",
+  "species": "Lanius collurio",
+  "images": [
+    {
+      "name": "Red-backed_shrike.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Red-backed_shrike.jpg/1920px-Red-backed_shrike.jpg"
+    },
+    {
+      "name": "Lanius_collurio_male_am.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/6/66/Lanius_collurio_male_am.jpg"
+    },
+    {
+      "name": "Neuntoeter-Jungvogel.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/7/77/Neuntoeter-Jungvogel.jpg"
+    },
+    {
+      "name": "Lanius_collurio_in_der_Lübtheener_Heide.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Lanius_collurio_in_der_L%C3%BCbtheener_Heide.jpg"
+    },
+    {
+      "name": "Lanius_collurio_4.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Lanius_collurio_4.jpg"
+    },
+    {
+      "name": "Lanius_collurio_-_Red-backed_shrike_09.jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Lanius_collurio_-_Red-backed_shrike_09.jpg/960px-Lanius_collurio_-_Red-backed_shrike_09.jpg?_=20200506174334"
+    },
+    {
+      "name": "Lanius_collurio_2_(Martin_Mecnarowski).jpg",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Lanius_collurio_2_%28Martin_Mecnarowski%29.jpg/500px-Lanius_collurio_2_%28Martin_Mecnarowski%29.jpg?_=20110114122523"
+    }
+  ],
+  "sounds": [
+    {
+      "name": "Lanius_collurio_(Rotrückenwürger_-_Neuntöter_-_Red-backed_Shrike).ogg.mp3",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/transcoded/0/0c/Lanius_collurio_%28Rotr%C3%BCckenw%C3%BCrger_-_Neunt%C3%B6ter_-_Red-backed_Shrike%29.ogg/Lanius_collurio_%28Rotr%C3%BCckenw%C3%BCrger_-_Neunt%C3%B6ter_-_Red-backed_Shrike%29.ogg.mp3"
+    }
+  ]
+}
