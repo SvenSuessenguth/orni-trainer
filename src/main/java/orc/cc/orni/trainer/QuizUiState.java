@@ -21,7 +21,7 @@ public class QuizUiState implements Serializable {
     private Resources resources;
 
     private Category category = Category.BRONZE;
-    private Hint hint;
+    private Hint hint = Hint.IMAGE;
 
     private Bird bird;
     private String imageName;
