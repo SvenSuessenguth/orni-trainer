@@ -34,6 +34,7 @@
                 <h:selectOneMenu id="hint" value="#{quizUiState.hint}">
                     <f:selectItems value="#{quizUiService.allHints}" var="s" itemValue="#{s}"
                                    itemLabel="#{i18nText['orc.cc.orni.trainer.Hint.' += s.name()]}"/>
+                    <f:ajax event="click" listener="#{quizUiService.selectHint}"/>
                 </h:selectOneMenu>
             </div>
             <div class="div2">
@@ -54,12 +55,14 @@
                 <table>
                     <tr>
                         <td><h:outputLabel for="ordnung" value="#{i18nText.order}"/></td>
-                        <td><h:outputText id="ordnung" value="#{quizUiState.bird.order} (#{i18nText[quizUiState.bird.order]})"
+                        <td><h:outputText id="ordnung"
+                                          value="#{quizUiState.bird.order} (#{i18nText[quizUiState.bird.order]})"
                                           rendered="#{quizUiState.showResolution}"/></td>
                     </tr>
                     <tr>
                         <td><h:outputLabel for="familie" value="#{i18nText.family}"/></td>
-                        <td><h:outputText id="familie" value="#{quizUiState.bird.family} (#{i18nText[quizUiState.bird.family]})"
+                        <td><h:outputText id="familie"
+                                          value="#{quizUiState.bird.family} (#{i18nText[quizUiState.bird.family]})"
                                           rendered="#{quizUiState.showResolution}"/></td>
                     </tr>
                     <tr>
