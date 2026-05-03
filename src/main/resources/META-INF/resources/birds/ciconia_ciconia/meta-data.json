@@ -3,6 +3,7 @@
   "order": "Ciconiiformes",
   "family": "Ciconiidae",
   "species": "Ciconia ciconia",
+  "habitat": "B,A,S",
   "images": [
     {
       "name": "Ciconia_ciconia_(aka).jpg",
@@ -21,7 +22,7 @@
       "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/White_Stork.jpg/1920px-White_Stork.jpg"
     },
     {
-      "name": "Storchennest&Gelege_20230520_143344.jpg",
+      "name": "Storchennest_und_Gelege_20230520_143344.jpg",
       "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Storchennest%26Gelege_20230520_143344.jpg/1920px-Storchennest%26Gelege_20230520_143344.jpg"
     },
     {
