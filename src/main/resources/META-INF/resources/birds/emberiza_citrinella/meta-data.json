@@ -24,8 +24,13 @@
   ],
   "sounds": [
     {
-      "name": "",
-      "source": ""
+      "name": "Goldammer.mp4",
+      "source": "https://www.youtube.com/shorts/I7M6GOKZ4c4"
+    },
+    {
+      "name": "Gesang.mp4",
+      "source": "https://www.youtube.com/shorts/pgFkdDdUJgs"
     }
+
   ]
 }

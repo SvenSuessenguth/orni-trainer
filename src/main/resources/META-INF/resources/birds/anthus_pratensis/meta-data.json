@@ -52,8 +52,8 @@
   ],
   "sounds": [
     {
-      "name": "",
-      "source": ""
+      "name": "wiesenpieper-ruf-742.mp3",
+      "source": "https://www.deutsche-vogelstimmen.de/wiesenpieper/?type=ruf-742"
     }
   ]
 }

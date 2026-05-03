@@ -24,8 +24,12 @@
   ],
   "sounds": [
     {
-      "name": "",
-      "source": ""
+      "name": "feldlerche-lied-713.mp3",
+      "source": "https://www.deutsche-vogelstimmen.de/feldlerche/?type=lied-713"
+    },
+    {
+      "name": "Feldlerche Gesang (1080p_30fps_H264-128kbit_AAC).mp4",
+      "source": "youtube"
     }
   ]
 }

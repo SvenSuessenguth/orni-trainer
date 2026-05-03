@@ -62,10 +62,10 @@ public class QuizUiState implements Serializable {
         var countSounds = bird.getSounds().size();
         if (countSounds > 0) {
             var randomSoundNumber = ThreadLocalRandom.current().nextInt(0, countSounds);
-            log.info("Random soound number is: " + randomSoundNumber + " out of " + countSounds);
-            var randomSoundName = bird.getImages().get(randomSoundNumber).name();
+            log.info("Random sound number is: " + randomSoundNumber + " out of " + countSounds);
+            var randomSoundName = bird.getSounds().get(randomSoundNumber).name();
             log.info("randomSoundName: " + path.toLowerCase() + "/" + randomSoundName);
-            soundName = path.toLowerCase() + "/" + randomSoundName;
+            soundName = "birds:"+path.toLowerCase() + "/" + randomSoundName;
         } else {
             soundName = null;
         }

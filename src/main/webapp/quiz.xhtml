@@ -4,6 +4,7 @@
 <html lang="en"
       xmlns:h="jakarta.faces.html"
       xmlns:f="http://xmlns.jcp.org/jsf/core"
+      xmlns:c="jakarta.tags.core"
       xmlns:ui="jakarta.faces.facelets">
 <h:head>
     <title>.</title>
@@ -39,7 +40,7 @@
             </div>
             <div class="div2">
                 <!--
-                 | hint
+                 | hints
                  +-->
                 <h:graphicImage library="birds" name="#{quizUiState.imageName}"
                                 rendered="#{quizUiState.imageHint}"
@@ -47,6 +48,13 @@
                                 style="width: 500px; height: auto"/>
                 <h:outputText value="#{quizUiState.bird.species}"
                               rendered="#{quizUiState.speciesHint}"/>
+
+
+                <c:if test="#{quizUiState.soundHint}">
+                    <audio controls="controls">
+                        <source src="#{resource[quizUiState.soundName]}" />
+                    </audio>
+                </c:if>
             </div>
             <div class="div3">
                 <!--

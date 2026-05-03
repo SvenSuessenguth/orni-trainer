@@ -15,6 +15,7 @@ public class Bird implements Serializable {
   String family;
   String species;
   String habitat;
+
   @EqualsAndHashCode.Exclude
   List<Image> images;
   @EqualsAndHashCode.Exclude

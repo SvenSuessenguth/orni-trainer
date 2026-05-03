@@ -36,8 +36,16 @@
   ],
   "sounds": [
     {
-      "name": "",
-      "source": ""
+      "name": "Mauersegler Ruf – Vogelstimmen erkennen (1920p_50fps_H264-128kbit_AAC).mp4",
+      "source": "https://www.youtube.com/shorts/xFB8Ehi8fuA"
+    },
+    {
+      "name": "mauersegler-lied-836.mp3",
+      "source": "https://www.deutsche-vogelstimmen.de/mauersegler/?type=lied-836"
+    },
+    {
+      "name": "mauersegler-ruf-1618.mp3",
+      "source": "https://www.deutsche-vogelstimmen.de/mauersegler/?type=lied-836"
     }
   ]
 }
