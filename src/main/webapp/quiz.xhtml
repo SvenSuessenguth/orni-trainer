@@ -51,8 +51,8 @@
 
 
                 <c:if test="#{quizUiState.soundHint}">
-                    <audio controls="controls">
-                        <source src="#{resource[quizUiState.soundName]}" />
+                    <audio controls="controls" autoplay="autoplay">
+                        <source src="#{resource[quizUiState.soundName]}"/>
                     </audio>
                 </c:if>
             </div>

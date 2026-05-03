@@ -32,8 +32,12 @@
   ],
   "sounds": [
     {
-      "name": "",
-      "source": ""
+      "name": "kuckuck-lied-681.mp3",
+      "source": "https://www.deutsche-vogelstimmen.de/kuckuck/"
+    },
+    {
+      "name": "kuckuck-ruf-1742.mp3",
+      "source": "https://www.deutsche-vogelstimmen.de/kuckuck/"
     }
   ]
 }

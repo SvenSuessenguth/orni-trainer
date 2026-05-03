@@ -20,8 +20,12 @@
   ],
   "sounds": [
     {
-      "name": "",
-      "source": ""
+      "name": "flussregenpfeifer-ruf-809.mp3",
+      "source": "https://www.deutsche-vogelstimmen.de/flussregenpfeifer/"
+    },
+    {
+      "name": "f4dfb39b-1900-4694-ae22-1b22f715039b.mp3",
+      "source": "https://www.deutsche-digitale-bibliothek.de/item/GYFIRIUZ7E2SI5GPABXCAXLSHD62ZCXH"
     }
   ]
 }
