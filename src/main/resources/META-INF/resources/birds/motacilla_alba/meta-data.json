@@ -28,8 +28,16 @@
   ],
   "sounds": [
     {
-      "name": "",
-      "source": ""
+      "name": "bachstelze-flug-1612.mp3",
+      "source": "https://www.deutsche-vogelstimmen.de/bachstelze/"
+    },
+    {
+      "name": "bachstelze-lied-745.mp3",
+      "source": "https://www.deutsche-vogelstimmen.de/bachstelze/"
+    },
+    {
+      "name": "bachstelze-ruf-1613.mp3",
+      "source": "https://www.deutsche-vogelstimmen.de/bachstelze/"
     }
   ]
 }
