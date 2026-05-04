@@ -1,62 +1,74 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <server description="torganizer">
-  <featureManager>
-    <feature>jakartaee-10.0</feature>
-  </featureManager>
+    <featureManager>
+        <feature>jakartaee-10.0</feature>
+    </featureManager>
 
-  <!--
-   | To access this server from a remote client add a host attribute to the following element, e.g. host="*"
-   | Ignore "IllegalStateException: The orb is not available"
-   | https://www-01.ibm.com/support/docview.wss?uid=ibm10728669
-   +-->
-  <httpEndpoint id="defaultHttpEndpoint" enabled="true" httpPort="8080" httpsPort="8443" host="*"/>
-  
-  <!--
-   | https://www.ibm.com/support/knowledgecenter/en/SSEQTP_liberty/com.ibm.websphere.wlp.doc/ae/twlp_sec_create_certificate.html
-   +-->
-  <keyStore id="defaultKeyStore" password="{xor}KzAtOD4xNiU6LQ==" />
+    <!--
+     | To access this server from a remote client add a host attribute to the following element, e.g. host="*"
+     | Ignore "IllegalStateException: The orb is not available"
+     | https://www-01.ibm.com/support/docview.wss?uid=ibm10728669
+     +-->
+    <httpEndpoint id="defaultHttpEndpoint" enabled="true" httpPort="8080" httpsPort="8443" host="*"/>
 
-  <!--
-   | https://www.ibm.com/support/knowledgecenter/en/SSEQTP_liberty/com.ibm.websphere.wlp.doc/ae/twlp_dep_jndi.html 
-   +-->
-  <jndiEntry jndiName="jsf/ProjectStage" value="Production"/>
+    <!--
+     | https://www.ibm.com/support/knowledgecenter/en/SSEQTP_liberty/com.ibm.websphere.wlp.doc/ae/twlp_sec_create_certificate.html
+     +-->
+    <keyStore id="defaultKeyStore" password="{xor}KzAtOD4xNiU6LQ=="/>
 
-  <!--
-   | https://www.ibm.com/support/knowledgecenter/en/SSAW57_liberty/com.ibm.websphere.wlp.nd.multiplatform.doc/ae/rwlp_portnums.html 
-   +-->
-  <wasJmsEndpoint wasJmsPort="7279" wasJmsSSLPort="7289"/>
+    <!--
+     | https://www.ibm.com/support/knowledgecenter/en/SSEQTP_liberty/com.ibm.websphere.wlp.doc/ae/twlp_dep_jndi.html
+     +-->
+    <jndiEntry jndiName="jsf/ProjectStage" value="Production"/>
 
-  <!--
-   | https://www.ibm.com/support/knowledgecenter/en/SSEQTP_liberty/com.ibm.websphere.wlp.doc/ae/twlp_mp_metrics_monitor.html
-   +-->
-  <mpMetrics authentication="false"/>
+    <!--
+     | https://www.ibm.com/support/knowledgecenter/en/SSAW57_liberty/com.ibm.websphere.wlp.nd.multiplatform.doc/ae/rwlp_portnums.html
+     +-->
+    <wasJmsEndpoint wasJmsPort="7279" wasJmsSSLPort="7289"/>
 
-  <!--
-   | Automatically expand WAR files and EAR files
-   +-->
-  <applicationManager autoExpand="true"/>
+    <!--
+     | https://www.ibm.com/support/knowledgecenter/en/SSEQTP_liberty/com.ibm.websphere.wlp.doc/ae/twlp_mp_metrics_monitor.html
+     +-->
+    <mpMetrics authentication="false"/>
 
-  <!--
-   | https://stackoverflow.com/questions/15485239/websphere-liberty-profile-and-intellij-jmx-administration-should-be-enable
-   +-->
-  <applicationMonitor updateTrigger="mbean"/>
+    <!--
+     | Automatically expand WAR files and EAR files
+     +-->
+    <applicationManager autoExpand="true"/>
 
-  <!--
-   | CWWKS9660E: Das Element orb mit dem id-Attribut defaultOrb setzt eine Benutzerregistry voraus, aber auch nach 10 Sekunden war keine Benutzerregistry verfügbar.
-   | https://www.ibm.com/support/knowledgecenter/SSD28V_9.0.0/com.ibm.websphere.wlp.core.doc/ae/twlp_sec_basic_registry.html
-   +-->
-  <basicRegistry id="basic" realm="customRealm">
-    <user name="admin" password="admin"/>
-    <group name="admins">
-      <member name="admin"/>
-    </group>
-  </basicRegistry>
+    <!--
+     | https://stackoverflow.com/questions/15485239/websphere-liberty-profile-and-intellij-jmx-administration-should-be-enable
+     +-->
+    <applicationMonitor updateTrigger="mbean"/>
 
-  <!--
-   | https://blog.bmarwell.de/en/my-top-10-favourite-openliberty-hidden-features/?utm_source=rss&utm_medium=rss&utm_campaign=my-top-10-favourite-openliberty-hidden-features
-   +-->
-  <cdi12 enableImplicitBeanArchives="true" />
+    <!--
+     | CWWKS9660E: Das Element orb mit dem id-Attribut defaultOrb setzt eine Benutzerregistry voraus, aber auch nach 10 Sekunden war keine Benutzerregistry verfügbar.
+     | https://www.ibm.com/support/knowledgecenter/SSD28V_9.0.0/com.ibm.websphere.wlp.core.doc/ae/twlp_sec_basic_registry.html
+     +-->
+    <basicRegistry id="basic" realm="customRealm">
+        <user name="admin" password="admin"/>
+        <group name="admins">
+            <member name="admin"/>
+        </group>
+    </basicRegistry>
 
-  <application type="war" id="orni_trainer_war_exploded" name="orni_trainer_war_exploded" location="orni-trainer.war" context-root="/"/>
+    <!--
+     | https://blog.bmarwell.de/en/my-top-10-favourite-openliberty-hidden-features/?utm_source=rss&utm_medium=rss&utm_campaign=my-top-10-favourite-openliberty-hidden-features
+     +-->
+    <cdi12 enableImplicitBeanArchives="true"/>
+
+    <!--
+     | Verhindern folgender Fehlermldung:
+     | CWWKS4118E: LTPA configuration error. A keysPassword attribute is not configured on the <ltpa /> element,
+     |             the 'ltpa_keys_password' environment variable is not set, and the 'keystore_password' environment
+     |             variable is not set.
+     | @see https://www.ibm.com/docs/en/was-liberty/base?topic=liberty-configuring-ltpa-in
+     |
+     | ecurityUtility createLTPAKeys password=keysPassword passwordBase64Key=keyPassword file=LTPA.keys
+     +-->
+    <ltpa keysPassword="{xor}NDomLA8+LCwoMC07" keysFileName="LTPA.keys" />
+
+    <application type="war" id="orni_trainer_war_exploded" name="orni_trainer_war_exploded" location="orni-trainer.war"
+                 context-root="/"/>
 </server>
 

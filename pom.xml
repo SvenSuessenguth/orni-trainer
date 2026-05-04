@@ -11,7 +11,6 @@
     <jakarta.jakartaee-api.version>11.0.0</jakarta.jakartaee-api.version>
     <lombok.version>1.18.46</lombok.version>
 
-    <openliberty-runtime.version>26.0.0.4</openliberty-runtime.version>
     <junit.version>6.1.0-RC1</junit.version>
     <assertj-core.version>4.0.0-M1</assertj-core.version>
     <mockito.version>5.23.0</mockito.version>
@@ -20,9 +19,10 @@
     <maven-compiler-plugin.version>3.15.0</maven-compiler-plugin.version>
     <maven-enforcer-plugin.version>3.6.2</maven-enforcer-plugin.version>
 
+    <openliberty-runtime.version>26.0.0.4</openliberty-runtime.version>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-    <maven.compiler.source>25</maven.compiler.source>
-    <maven.compiler.target>25</maven.compiler.target>
+    <maven.compiler.source>26</maven.compiler.source>
+    <maven.compiler.target>26</maven.compiler.target>
   </properties>
 
   <dependencies>
