@@ -72,8 +72,20 @@
   ],
   "sounds": [
     {
-      "name": "",
-      "source": ""
+      "name": "Vogelstimmen; Der Turmfalke - Kestrel - Falco tinnunculus (4k) (2160p_25fps_AV1-128kbit_AAC).mp4",
+      "source": "https://www.youtube.com/watch?v=hEOWaiBZod0"
+    },
+    {
+      "name": "turmfalke-alarm-1538.mp3",
+      "source": "https://www.deutsche-vogelstimmen.de/turmfalke/"
+    },
+    {
+      "name": "turmfalke-flug-1539.mp3",
+      "source": "https://www.deutsche-vogelstimmen.de/turmfalke/"
+    },
+    {
+      "name": "turmfalke-ruf-1537.mp3",
+      "source": "https://www.deutsche-vogelstimmen.de/turmfalke/"
     }
   ]
 }

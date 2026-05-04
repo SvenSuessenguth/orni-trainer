@@ -24,8 +24,12 @@
   ],
   "sounds": [
     {
-      "name": "",
-      "source": ""
+      "name": "mehlschwalbe-ruf-789.mp3",
+      "source": "https://www.deutsche-vogelstimmen.de/mehlschwalbe/"
+    },
+    {
+      "name": "Viele Junge Mehlschwalben.mp4",
+      "source": "https://www.youtube.com/shorts/WE8AyoHOc6Q"
     }
   ]
 }
