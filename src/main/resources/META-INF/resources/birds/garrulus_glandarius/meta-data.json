@@ -30,6 +30,22 @@
     {
       "name": "Garrulus_glandarius_iphigenia.ogg",
       "source": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Garrulus_glandarius_iphigenia.ogg"
+    },
+    {
+      "name": "eichelhaher-alarm-703.mp3",
+      "source": "https://www.deutsche-vogelstimmen.de/eichelhaher/"
+    },
+    {
+      "name": "eichelhaher-flug-1548.mp3",
+      "source": "https://www.deutsche-vogelstimmen.de/eichelhaher/"
+    },
+    {
+      "name": "eichelhaher-lied-1546.mp3",
+      "source": "https://www.deutsche-vogelstimmen.de/eichelhaher/"
+    },
+    {
+      "name": "eichelhaher-ruf-1547.mp3",
+      "source": "https://www.deutsche-vogelstimmen.de/eichelhaher/"
     }
   ]
 }
