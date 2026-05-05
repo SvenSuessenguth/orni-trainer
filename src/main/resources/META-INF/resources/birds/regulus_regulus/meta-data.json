@@ -27,5 +27,17 @@
     }
   ],
   "sounds": [
+    {
+      "name": "wintergoldhahnchen-alarm-1511.mp3",
+      "source": "https://www.deutsche-vogelstimmen.de/wintergoldhahnchen/"
+    },
+    {
+      "name": "wintergoldhahnchen-lied-1712.mp3",
+      "source": "https://www.deutsche-vogelstimmen.de/wintergoldhahnchen/"
+    },
+    {
+      "name": "wintergoldhahnchen-ruf-1510.mp3",
+      "source": "https://www.deutsche-vogelstimmen.de/wintergoldhahnchen/"
+    }
   ]
 }

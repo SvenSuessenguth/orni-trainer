@@ -48,8 +48,20 @@
   ],
   "sounds": [
     {
-      "name": "",
-      "source": ""
+      "name": "grunspecht-alarm-1541.mp3",
+      "source": "https://www.deutsche-vogelstimmen.de/grunspecht/"
+    },
+    {
+      "name": "grunspecht-flug-1542.mp3",
+      "source": "https://www.deutsche-vogelstimmen.de/grunspecht/"
+    },
+    {
+      "name": "grunspecht-lied-1540.mp3",
+      "source": "https://www.deutsche-vogelstimmen.de/grunspecht/"
+    },
+    {
+      "name": "grunspecht-ruf-787.mp3",
+      "source": "https://www.deutsche-vogelstimmen.de/grunspecht/"
     }
   ]
 }

@@ -28,8 +28,16 @@
   ],
   "sounds": [
     {
-      "name": "",
-      "source": ""
+      "name": "wacholderdrossel-alarm-1514.mp3",
+      "source": "https://www.deutsche-vogelstimmen.de/wacholderdrossel/"
+    },
+    {
+      "name": "wacholderdrossel-lied-1512.mp3",
+      "source": "https://www.deutsche-vogelstimmen.de/wacholderdrossel/"
+    },
+    {
+      "name": "wacholderdrossel-ruf-1513.mp3",
+      "source": "https://www.deutsche-vogelstimmen.de/wacholderdrossel/"
     }
   ]
 }

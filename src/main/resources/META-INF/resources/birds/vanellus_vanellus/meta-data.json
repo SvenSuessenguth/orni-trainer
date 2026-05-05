@@ -24,8 +24,24 @@
   ],
   "sounds": [
     {
-      "name": "",
-      "source": ""
+      "name": "Vogelstimmen; Der Kiebitz - Lapwing - Vanellus vanellus (4k) (2160p_25fps_AV1-128kbit_AAC).mp4",
+      "source": "https://www.youtube.com/watch?v=Db8xLi_UjH8"
+    },
+    {
+      "name": "kiebitz-alarm-1523.mp3",
+      "source": "https://www.deutsche-vogelstimmen.de/kiebitz/"
+    },
+    {
+      "name": "kiebitz-flug-1524.mp3",
+      "source": "https://www.deutsche-vogelstimmen.de/kiebitz/"
+    },
+    {
+      "name": "kiebitz-flug-817.mp3",
+      "source": "https://www.deutsche-vogelstimmen.de/kiebitz/"
+    },
+    {
+      "name": "kiebitz-ruf-1522.mp3",
+      "source": "https://www.deutsche-vogelstimmen.de/kiebitz/"
     }
   ]
 }

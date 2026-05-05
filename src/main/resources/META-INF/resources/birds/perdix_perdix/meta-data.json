@@ -28,8 +28,12 @@
   ],
   "sounds": [
     {
-      "name": "",
-      "source": ""
+      "name": "Rebhuhn Ruf.mp4",
+      "source": "https://www.youtube.com/shorts/tyr66UFhCcA"
+    },
+    {
+      "name": "rebhuhn-alarm-696.mp3",
+      "source": "https://www.deutsche-vogelstimmen.de/rebhuhn/"
     }
   ]
 }
