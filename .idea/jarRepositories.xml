@@ -7,26 +7,6 @@
       <option name="url" value="https://repo.maven.apache.org/maven2" />
     </remote-repository>
     <remote-repository>
-      <option name="id" value="signaliduna.repo.si-snapshot" />
-      <option name="name" value="signaliduna.repo.si-snapshot" />
-      <option name="url" value="https://java.system.local/repository/si-snapshot/" />
-    </remote-repository>
-    <remote-repository>
-      <option name="id" value="signaliduna.repo.si-external" />
-      <option name="name" value="signaliduna.repo.si-external" />
-      <option name="url" value="https://java.system.local/repository/si-external/" />
-    </remote-repository>
-    <remote-repository>
-      <option name="id" value="signaliduna.repo.si-external-snapshot" />
-      <option name="name" value="signaliduna.repo.si-external-snapshot" />
-      <option name="url" value="https://java.system.local/repository/si-external-snapshot/" />
-    </remote-repository>
-    <remote-repository>
-      <option name="id" value="central" />
-      <option name="name" value="Central Repository" />
-      <option name="url" value="https://java.system.local/repository/full" />
-    </remote-repository>
-    <remote-repository>
       <option name="id" value="central" />
       <option name="name" value="Maven Central repository" />
       <option name="url" value="https://repo1.maven.org/maven2" />
@@ -35,11 +15,6 @@
       <option name="id" value="jboss.community" />
       <option name="name" value="JBoss Community repository" />
       <option name="url" value="https://repository.jboss.org/nexus/content/repositories/public/" />
-    </remote-repository>
-    <remote-repository>
-      <option name="id" value="signaliduna.repo.full" />
-      <option name="name" value="signaliduna.repo.full" />
-      <option name="url" value="https://java.system.local/repository/full/" />
     </remote-repository>
   </component>
 </project>
