@@ -42,8 +42,20 @@
   ],
   "sounds": [
     {
-      "name": "Coccothraustes_coccothraustes_-_Hawfinch_XC107638.mp3",
-      "source": "https://commons.wikimedia.org/wiki/File:Coccothraustes_coccothraustes_-_Hawfinch_XC107638.mp3?uselang=de"
+      "name": "kernbeisser-alarm-1603.mp3",
+      "source": "https://www.deutsche-vogelstimmen.de/kernbeisser/"
+    },
+    {
+      "name": "kernbeisser-flug-1604.mp3",
+      "source": "https://www.deutsche-vogelstimmen.de/kernbeisser/"
+    },
+    {
+      "name": "kernbeisser-lied-668.mp3",
+      "source": "https://www.deutsche-vogelstimmen.de/kernbeisser/"
+    },
+    {
+      "name": "kernbeisser-ruf-1740.mp3",
+      "source": "https://www.deutsche-vogelstimmen.de/kernbeisser/"
     }
   ]
 }
