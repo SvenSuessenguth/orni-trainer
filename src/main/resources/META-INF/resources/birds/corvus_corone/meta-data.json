@@ -20,8 +20,16 @@
   ],
   "sounds": [
     {
-      "name": "Corvus_corone_subsong.ogg",
-      "source": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Corvus_corone_subsong.ogg"
+      "name": "rabenkrahe-alarm-1571.mp3",
+      "source": "https://www.deutsche-vogelstimmen.de/rabenkrahe/"
+    },
+    {
+      "name": "rabenkrahe-lied-1570.mp3",
+      "source": "https://www.deutsche-vogelstimmen.de/rabenkrahe/"
+    },
+    {
+      "name": "rabenkrahe-ruf-1432.mp3",
+      "source": "https://www.deutsche-vogelstimmen.de/rabenkrahe/"
     }
   ]
 }
