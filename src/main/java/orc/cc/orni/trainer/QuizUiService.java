@@ -1,6 +1,7 @@
 package orc.cc.orni.trainer;
 
 import jakarta.enterprise.context.RequestScoped;
+import jakarta.faces.event.AjaxBehaviorEvent;
 import jakarta.inject.Inject;
 import jakarta.inject.Named;
 
@@ -32,6 +33,11 @@ public class QuizUiService {
 
     public String showSolution() {
         quizUiState.setShowResolution(true);
+        return null;
+    }
+
+    public String selectHint(AjaxBehaviorEvent event) {
+        quizUiState.selectBird();
         return null;
     }
 }
