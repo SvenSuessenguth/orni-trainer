@@ -28,8 +28,12 @@
   ],
   "sounds": [
     {
-      "name": "Graureiher Ruf.mp4",
-      "source": "https://www.youtube.com/shorts/kLDzOZMnsU4"
+      "name": "graureiher-ruf-lied-684.mp3",
+      "source": "https://www.deutsche-vogelstimmen.de/graureiher/"
+    },
+    {
+      "name": "graureiher-flug-1593.mp3",
+      "source": "https://www.deutsche-vogelstimmen.de/graureiher/"
     }
   ]
 }
