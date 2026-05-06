@@ -32,12 +32,16 @@
   ],
   "sounds": [
     {
-      "name": "Aegithalos_caudatus_-_Long-tailed_Tit_-_XC114614.ogg.mp3",
-      "source": "https://upload.wikimedia.org/wikipedia/commons/transcoded/3/30/Aegithalos_caudatus_-_Long-tailed_Tit_-_XC114614.ogg/Aegithalos_caudatus_-_Long-tailed_Tit_-_XC114614.ogg.mp3"
+      "name": "schwanzmeise-alarm-1600.mp3",
+      "source": "https://www.deutsche-vogelstimmen.de/schwanzmeise/"
     },
     {
-      "name": "Aegithalos_caudatus_-_Long-tailed_Tit_-_XC114614.ogg",
-      "source": "https://upload.wikimedia.org/wikipedia/commons/3/30/Aegithalos_caudatus_-_Long-tailed_Tit_-_XC114614.ogg"
+      "name": "schwanzmeise-lied-1599.mp3",
+      "source": "https://www.deutsche-vogelstimmen.de/schwanzmeise/"
+    },
+    {
+      "name": "schwanzmeise-ruf-717.mp3",
+      "source": "https://www.deutsche-vogelstimmen.de/schwanzmeise/"
     }
   ]
 }
