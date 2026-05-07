@@ -38,6 +38,18 @@
     {
       "name": "XN_Luscinia_megarhynchos_017.ogg",
       "source": "https://upload.wikimedia.org/wikipedia/commons/f/f5/XN_Luscinia_megarhynchos_017.ogg"
+    },
+    {
+      "name": "nachtigall_003.mp3",
+      "source": "https://www.nabu.de/tiere-und-pflanzen/voegel/portraets/nachtigall/"
+    },
+    {
+      "name": "nachtigall-lied-1464.mp3",
+      "source": "https://www.deutsche-vogelstimmen.de/nachtigall/"
+    },
+    {
+      "name": "nachtigall-ruf-1544.mp3",
+      "source": "https://www.deutsche-vogelstimmen.de/nachtigall/"
     }
   ]
 }
