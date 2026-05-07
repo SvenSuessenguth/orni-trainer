@@ -9,10 +9,7 @@ import lombok.extern.java.Log;
 import java.io.File;
 import java.io.FileReader;
 import java.io.Serializable;
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.List;
-import java.util.Objects;
+import java.util.*;
 
 @ViewScoped
 @Data
@@ -49,5 +46,10 @@ public class Resources implements Serializable {
                 log.severe("Error reading: " + subFolder.getName());
             }
         }
+    }
+
+    public List<Bird> getRandomBirds(int count) {
+        Collections.shuffle(birds);
+        return birds.subList(0, Math.min(count, birds.size()));
     }
 }
