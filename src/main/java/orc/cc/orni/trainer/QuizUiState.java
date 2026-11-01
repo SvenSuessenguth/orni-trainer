@@ -32,7 +32,7 @@ public class QuizUiState implements Serializable {
     @PostConstruct
     public void postConstruct() {
         // load resources
-        resources.getRandomBirds(20).stream()
+        resources.getBirds().stream()
                 .filter(b -> b.getCategory() == category)
                 .forEach(b -> birdsAnsweredNotCorrect.add(b));
 

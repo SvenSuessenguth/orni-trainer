@@ -66,7 +66,7 @@
      |
      | ecurityUtility createLTPAKeys password=keysPassword passwordBase64Key=keyPassword file=LTPA.keys
      +-->
-    <ltpa keysPassword="{xor}NDomLA8+LCwoMC07" keysFileName="LTPA.keys" />
+    <ltpa keysPassword="{xor}NDomLA8+LCwoMC07" keysFileName="LTPA.keys"/>
 
     <application type="war" id="orni_trainer_war_exploded" name="orni_trainer_war_exploded" location="orni-trainer.war"
                  context-root="/"/>
